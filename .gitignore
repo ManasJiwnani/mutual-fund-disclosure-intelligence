@@ -32,25 +32,25 @@ npm-debug.log*
 yarn-debug.log*
 pnpm-debug.log*
 
-# ==============================
-# Data
-# ==============================
+# # ==============================
+# # Data
+# # ==============================
 
-# Raw/private data
-data/raw/
-data/disclosures/
+# # Raw/private data
+# data/raw/
+# data/disclosures/
 
-# Generated/processed data
-data/processed/
-data/market/
-data/fundamentals/
+# # Generated/processed data
+# data/processed/
+# data/market/
+# data/fundamentals/
 
-# Large data files
-*.csv
-*.parquet
-*.xlsx
-*.xls
-*.feather
+# # Large data files
+# *.csv
+# *.parquet
+# *.xlsx
+# *.xls
+# *.feather
 
 # ==============================
 # Jupyter

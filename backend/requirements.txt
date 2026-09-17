@@ -1,0 +1,29 @@
+# API
+fastapi
+uvicorn[standard]
+
+# Data processing
+polars
+pandas
+numpy
+pyarrow
+duckdb
+
+# Financial / statistical analysis
+scipy
+scikit-learn
+statsmodels
+
+# HTTP / Web scraping
+requests
+httpx
+beautifulsoup4
+lxml
+
+# Configuration
+python-dotenv
+pydantic
+pydantic-settings
+
+# Excel
+openpyxl

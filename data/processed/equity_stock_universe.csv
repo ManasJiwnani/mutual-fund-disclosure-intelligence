@@ -1,0 +1,1333 @@
+security_isin,security_name,industry,fund_count,total_percentage_nav
+INE040A01034,HDFC Bank Ltd.£,Banks,13,26.567309323444498
+INE238A01034,Axis Bank Ltd.,Banks,13,16.8844817959047
+INE062A01020,State Bank of India,Banks,13,14.7368678302616
+INE090A01021,ICICI Bank Ltd.,Banks,12,31.9265078925519
+INE002A01018,Reliance Industries Ltd.,Petroleum Products,12,17.9148893392548
+INE237A01036,Kotak Mahindra Bank Limited,Banks,12,11.8528091129016
+INE009A01021,Infosys Limited,IT - Software,12,8.298236214776
+INE018A01030,Larsen and Toubro Ltd.,Construction,11,12.47733825985
+INE585B01010,Maruti Suzuki India Limited,Automobiles,11,8.9312227485743
+INE397D01024,Bharti Airtel Ltd.,Telecom - Services,10,13.1523417168415
+INE758T01015,Eternal Limited,Retailing,10,8.6623377870604
+INE860A01027,HCL Technologies Ltd.,IT - Software,10,6.8822653604015
+INE059A01026,Cipla Ltd.,Pharmaceuticals & Biotechnology,10,4.1075821627752
+INE081A01020,Tata Steel Ltd.,Ferrous Metals,10,3.859424679244
+INE646L01027,InterGlobe Aviation Ltd.,Transport Services,9,7.1551091623895
+INE154A01025,ITC LIMITED,Diversified FMCG,9,4.4905724598261
+INE044A01036,Sun Pharmaceutical Industries Ltd.,Pharmaceuticals & Biotechnology,9,3.5034795224531
+INE854D01024,United Spirits Limited,Beverages,9,2.1324590582128002
+INE669C01036,Tech Mahindra Ltd.,IT - Software,9,1.1639957531451
+INE467B01029,Tata Consultancy Services Ltd.,IT - Software,8,5.8606543193137
+INE733E01010,NTPC Limited,Power,8,4.566475605295199
+INE101A01026,Mahindra & Mahindra Ltd.,Automobiles,8,3.6286714846202
+INE481G01011,UltraTech Cement Limited,Cement & Cement Products,8,2.5959064777753
+INE263A01024,Bharat Electronics Ltd.,Aerospace & Defense,8,1.9797191889342
+INE030A01027,Hindustan Unilever Ltd.,Diversified FMCG,8,1.9327916429409
+INE795G01014,HDFC Life Insurance Company Limited,Insurance,8,1.8523802602727
+INE213A01029,Oil & Natural Gas Corporation Ltd.,Oil,8,1.3697483441587
+INE066A01021,Eicher Motors Ltd.,Automobiles,7,5.1382318621913
+INE752E01010,Power Grid Corporation of India Ltd.,Power,7,4.8193080282229
+INE123W01016,SBI Life Insurance Company Ltd.,Insurance,7,4.7965508931555
+INE917I01010,Bajaj Auto Limited,Automobiles,7,3.1607000000000003
+INE326A01037,Lupin Ltd.,Pharmaceuticals & Biotechnology,7,2.8104856938136
+INE296A01032,Bajaj Finance Ltd.,Finance,7,2.6261800412698997
+INE089A01031,Dr Reddys Laboratories Ltd.,Pharmaceuticals & Biotechnology,7,0.7680308738998001
+INE066F01020,Hindustan Aeronautics Limited,Aerospace & Defense,7,0.4885891659711
+INE00H001014,Swiggy Limited,Retailing,7,0.4135190148126
+INE361B01024,Divis Laboratories Ltd.,Pharmaceuticals & Biotechnology,6,3.4589035285885004
+INE019A01038,JSW Steel Ltd.,Ferrous Metals,6,2.5607539300463
+INE522F01014,Coal India Ltd.,Consumable Fuels,6,2.4837000000000002
+INE437A01024,Apollo Hospitals Enterprise Ltd.,Healthcare Services,6,2.4680827140803
+INE417T01026,PB Fintech Limited,Financial Technology (Fintech),6,2.2068288602268002
+INE041025011,Embassy Office Parks REIT,Realty,6,1.9680321506199
+INE280A01028,Titan Company Ltd.,Consumer Durables,6,1.9356836412728
+INE721A01047,Shriram Finance Ltd.,Finance,6,1.5650936032515999
+INE0J1Y01017,Life Insurance Corporation of India,Insurance,6,1.5050547464447
+INE918I01026,Bajaj Finserv Ltd.,Finance,6,1.4479773611576001
+INE038A01020,Hindalco Industries Ltd.,Non - Ferrous Metals,6,1.3385651218086
+INE021A01026,Asian Paints Limited,Consumer Durables,6,1.2676500436458
+INE047A01021,Grasim Industries Ltd.,Cement & Cement Products,6,1.1526472029891999
+INE849A01020,Trent Ltd.,Retailing,6,1.1135383458953
+INE742F01042,Adani Ports & Special Economic Zone,Transport Infrastructure,6,1.1087145830223
+INE192A01025,Tata Consumer Products Limited,Agricultural Food & Other Products,6,0.6232
+INE027H01010,Max Healthcare Institute Limited,Healthcare Services,5,2.1972160968203998
+INE094A01015,Hindustan Petroleum Corp. Ltd.,Petroleum Products,5,1.7225662987946
+INE749A01030,Jindal Steel Limited.,Ferrous Metals,5,1.6633954985982
+INE220B01022,Kalpataru Projects International Ltd,Construction,5,1.6161
+INE423A01024,ADANI ENTERPRISES LIMTIED,Metals & Minerals Trading,5,1.2631720900738
+INE494B01023,TVS Motor Company Ltd.,Automobiles,5,0.9272854714137
+INE372A01015,Apar Industries Limited,Electrical Equipment,5,0.9091354406202
+INE914M01019,Aster DM Quality Care Limited,Healthcare Services,5,0.8280000000000001
+INE155A01022,Tata Motors Passenger Vehicles Limited,Automobiles,5,0.7045678275105
+INE1TAE01010,Tata Motors Limited,"Agricultural, Commercial & Construction Vehicles",5,0.1946245242897
+INE117A01022,ABB India Ltd.,Electrical Equipment,5,0.13421047112599999
+INE1CDF01017,Vedanta Aluminium Metal Ltd.,Non - Ferrous Metals,5,0.0401959075565
+INE775A01035,Samvardhana Motherson International Ltd.,Auto Components,5,0.0371164129143
+INE053A01029,The Indian Hotels Company Ltd.,Leisure Services,5,0.028924313364
+INE121J01017,Indus Towers Limited,Telecom - Services,5,0.018510756195
+INE0V6F01027,Hyundai Motor India Limited,Automobiles,4,3.527866286863
+INE180A01020,Max Financial Services Ltd.,Insurance,4,1.3674379630271
+INE880J01026,JSW Infrastructure Limited,Transport Infrastructure,4,1.1177000000000001
+INE216A01030,Britannia Industries Ltd.,Food Products,4,1.1103811414363
+INE331A01037,The Ramco Cements Ltd.,Cement & Cement Products,4,1.0054
+INE020B08FH7,7.55% REC Ltd. (31/10/2026) **,ICRA AAA,4,0.9216856703
+INE758E01017,Jio Financial Services Limited,Finance,4,0.8341999999999999
+INE068V01023,Gland Pharma Ltd.,Pharmaceuticals & Biotechnology,4,0.7402
+INE102D01028,Godrej Consumer Products Ltd.,Personal Products,4,0.7379684337015999
+INE261F08DV4,National Bank for Agri & Rural Dev.,CRISIL - AAA,4,0.7324097069846
+INE208A01029,Ashok Leyland  Ltd,"Agricultural, Commercial & Construction Vehicles",4,0.63
+INE095A01012,Indusind Bank Ltd.,Banks,4,0.6227124913845999
+INE121A01024,Cholamandalam Investment & Finance Co. Ltd.,Finance,4,0.5012027733397
+INE299U01018,Crompton Greaves Consumer Elec. Ltd.,Consumer Durables,4,0.4742
+INE261F08EU4,National Bank for Agri & Rural Dev.^,CRISIL - AAA,4,0.42651250646309996
+INE640G01020,SBI Funds Management Limited,Capital Markets,4,0.41272885854560004
+INE935N01020,Dixon Technologies (India) Ltd.,Consumer Durables,4,0.3381
+INE556F08KJ7,7.55% Small Industries Development Bank of India (22/09/2026) **,CRISIL AAA,4,0.3
+INE376G01013,Biocon Ltd.,Pharmaceuticals & Biotechnology,4,0.2637912391947
+INE848E01016,NHPC Ltd.,Power,4,0.21434903980269998
+INE020B14706,REC Ltd. (21/09/2026) **,ICRA A1+,4,0.21
+INE192R01011,Avenue Supermarts Ltd.,Retailing,4,0.14784370388680002
+INE271C01023,DLF LIMITED,Realty,4,0.145070493829
+INE663F01032,INFO EDGE (INDIA) LIMITED,Retailing,4,0.1365900716489
+INE121E01018,JSW Energy Ltd.,Power,4,0.12990000000000002
+INE797F01020,Jubilant Foodworks Limited,Leisure Services,4,0.1036106488255
+INE127D01025,HDFC Asset Management Company Ltd.,Capital Markets,4,0.0399974487909
+INE245A01021,Tata Power Company Ltd.,Power,4,0.025988368911300002
+INE298A01020,Cummins India Ltd.,Industrial Products,4,0.0224321996602
+INE634S01028,Mankind Pharma Ltd.,Pharmaceuticals & Biotechnology,4,0.015462557010299999
+INE726G01019,ICICI Prudential Life Insurance Company Ltd.,Insurance,4,0.0154071275014
+INE600L01024,Dr. Lal Path Labs Ltd,Healthcare Services,3,2.653
+INE01XX07034,Pipeline Infrastructure Pvt. Ltd.^,CRISIL - AAA,3,1.7894969542156
+INE176B01034,Havells India Ltd.,Consumer Durables,3,1.7843017732748
+INE556F08KL3,Small Industries Development Bank^,CRISIL - AAA,3,1.6733759013908
+INE765G01017,ICICI Lombard General Insurance Co,Insurance,3,1.5772430461177
+INE540L01014,Alkem Laboratories Ltd.,Pharmaceuticals & Biotechnology,3,1.4719
+INE0DK501011,Piramal Pharma Limited,Pharmaceuticals & Biotechnology,3,1.4481
+INE929O14FB3,Reliance Retail ventures Ltd.^,CRISIL - A1+,3,1.4031133103306999
+INE262H01021,Persistent Systems Limited,IT - Software,3,1.3937000000000002
+INE556F14MO1,Small Industries Development Bank of India (28/10/2026) **,CRISIL A1+,3,1.39
+INE692A16MS1,Union Bank of India (12/10/2026) **#,ICRA A1+,3,1.39
+INE261F08EG3,National Bank for Agri & Rural Dev.^,CRISIL - AAA,3,1.0740266100378
+INE1CBK15037,India Universal Trust AL2 (Originator - HDFC Bank Limited)£^,CRISIL - AAA(SO),3,1.0528596296083998
+INE148O01028,Delhivery Limited,Transport Services,3,1.0458
+INE556F08KW0,Small Industries Development Bank^,CRISIL - AAA,3,1.0333484153842
+INE239A01024,Nestle India Limited,Food Products,3,0.9828
+INE01EA01019,Vishal Mega Mart Limited,Retailing,3,0.9672
+INE191H01014,PVR LIMITED,Entertainment,3,0.8672
+INE01XX07042,Pipeline Infrastructure Pvt. Ltd.^,CRISIL - AAA,3,0.7915232872846001
+INE093A01041,Hexaware Technologies Ltd.,IT - Software,3,0.7607459373197
+INE028A01039,Bank of Baroda,Banks,3,0.752907898537
+INE388Y01029,Fsn Ecommerce Ventures Limited (Nykaa),Retailing,3,0.752696729938
+INE028A16KH5,Bank of Baroda (05/11/2026) **#,CARE A1+,3,0.69
+INE261F08EM1,National Bank for Agri & Rural Dev.,ICRA - AAA,3,0.6650585374696
+INE029A01011,Bharat Petroleum Corporation Ltd.,Petroleum Products,3,0.638453602822
+INE134E01011,Power Finance Corporation Ltd.,Finance,3,0.5908
+INE325A01013,Timken India Ltd.,Industrial Products,3,0.5553
+INE118D01016,Nuvoco Vistas Corporation Ltd.,Cement & Cement Products,3,0.55
+INE936D07174,6.40% Jamnagar Utilities & Power Pvt. Ltd. (29/09/2026),CRISIL AAA,3,0.53
+INE085A01013,Chambal Fertilizers & Chemicals Ltd.,Fertilizers & Agrochemicals,3,0.522
+INE506V01022,Rubicon Research Limited,Pharmaceuticals & Biotechnology,3,0.51
+INE0FDU25010,BROOKFIELD INDIA REAL ESTATE TRUST,Realty,3,0.5034716761307
+INE556F08KS8,Small Industries Development Bank^,CRISIL - AAA,3,0.47369494320039995
+INE1CBK15029,India Universal Trust AL2 (Originator - HDFC Bank Limited)£^,CRISIL - AAA(SO),3,0.4618270811117
+INE118H01025,Bombay Stock Exchange Limited (BSE),Capital Markets,3,0.4566249776321
+INE075A01022,Wipro Ltd.,It - Software,3,0.4510734618634
+INE063P01018,Equitas Small Finance Bank Ltd,Banks,3,0.42119999999999996
+INE918Z01012,KAYNES TECHNOLOGY INDIA LIMITED,Industrial Manufacturing,3,0.3983
+INE936D07182,Jamnagar Utilities & Power Pvt. Limited^,CRISIL - AAA,3,0.35675207225230005
+INE536H01010,CIE Automotive India Ltd,Auto Components,3,0.34240000000000004
+INE042A01014,ESCORTS KUBOTA LIMITED,"Agricultural, Commercial & Construction Vehicles",3,0.3272
+INE079A01024,Ambuja Cements Ltd.,Cement & Cement Products,3,0.3265
+INE356A01018,MphasiS Limited.,IT - Software,3,0.2805518601836
+INE556F16BR2,Small Industries Development Bank of India (10/11/2026) **#,CRISIL A1+,3,0.28
+INE099Z01011,Mishra Dhatu Nigam Ltd.,Aerospace & Defense,3,0.2598
+INE261F08EO7,National Bank for Agri & Rural Dev.,CRISIL - AAA,3,0.2529242339534
+INE115A07NP6,LIC Housing Finance Ltd.^,CRISIL - AAA,3,0.18446592028640002
+INE486A01021,CESC Ltd.,Power,3,0.17200000000000001
+INE261F08EF5,National Bank for Agri & Rural Dev.,ICRA - AAA,3,0.1542092715166
+INE238AD6CQ9,Axis Bank Ltd. (16/09/2026) **#,ICRA A1+,3,0.14
+INE115A07RF8,LIC Housing Finance Ltd.^,CRISIL - AAA,3,0.1389359715947
+INE716A01013,Whirlpool of India Ltd.,Consumer Durables,3,0.1178
+INE813H01021,Torrent Power Ltd.,Power,3,0.05
+INE200M01039,Varun Beverages Ltd,Beverages,3,0.031
+INE692A01016,Union Bank of India,Banks,3,0.022600000000000002
+INE0ONG01011,NTPC Green Energy Limited,Power,3,0.0225
+INE200A01026,Ge Vernova T&D India Ltd.,Electrical Equipment,3,0.0219275570861
+INE070A01015,Shree Cements Ltd.,Cement & Cement Products,3,0.0158436809731
+INE472A01039,,Consumer Durables,3,0.0152
+INE398R01022,Syngene International Limited,Healthcare Services,3,0.0112
+INE686F01025,United Breweries Ltd.,Beverages,3,0.0110381720097
+INE158A01026,Hero Motocorp Ltd.,Automobiles,3,0.0100067098459
+INE473A01011,,Chemicals and Petrochemicals,3,0.0057
+INE040A16HL8,HDFC Bank Ltd. (10/09/2026) #,ICRA A1+,3,0.0
+INE040A16JQ3,HDFC Bank Ltd. (16/09/2026) **#,ICRA A1+,3,0.0
+INE094A14KD1,Hindustan Petroleum Corporation Ltd. (17/09/2026) **,ICRA A1+,3,0.0
+INE296A14D13,Bajaj Finance Ltd. (04/11/2026) **,ICRA A1+,3,0.0
+INE347G01014,,Gas,3,0.0
+INE296A07TH8,Bajaj Finance Ltd.^,CRISIL - AAA,2,3.81
+INE062A08454,State Bank of India (Tier 2 - Basel III)^,CRISIL - AAA,2,3.08
+INE929O14FF4,Reliance Retail Ventures Ltd. (21/09/2026) **,CRISIL A1+,2,2.79
+INE514E14TO8,Export-Import Bank of India (15/09/2026) **,ICRA A1+,2,2.1
+INE692A16MX1,Union Bank of India^,ICRA - A1+,2,2.09
+INE692A16MM4,Union Bank of India (21/09/2026) **#,ICRA A1+,2,1.75
+INE115A07QJ2,LIC Housing Finance Ltd.^,CRISIL - AAA,2,1.74
+INE040A08666,HDFC Bank Ltd.£^,CRISIL - AAA,2,1.69
+INE556F08KU4,Small Industries Development Bank^,CRISIL - AAA,2,1.6589001609293
+INE323A01026,Bosch Limited,Auto Components,2,1.6500000000000001
+INE0NDH25011,Nexus Select Trust REIT,Realty,2,1.6206479275537
+INE261F14PR4,National Bank for Agriculture and Rural Development (09/09/2026),ICRA A1+,2,1.58
+INE2I7F15012,Siddhivinayak Securitisation Trust (Originator - Sikka Ports & Terminals Limited)^,CRISIL - AAA(SO),2,1.4233736910852999
+INE160A16VR2,Punjab National Bank^,ICRA - A1+,2,1.39
+INE028A16MW0,Bank of Baroda^,IND - A1+,2,1.38
+INE261F14QE0,National Bank for Agriculture and Rural Development (30/11/2026) **,CRISIL A1+,2,1.38
+INE929O14FA5,Reliance Retail ventures Ltd.^,CRISIL - A1+,2,1.33
+INE031A08939,Housing and Urban Development Corporation Ltd.^,CARE - AAA,2,1.29
+INE242A08569,Indian Oil Corporation Ltd.^,CRISIL - AAA,2,1.29
+INE557F08GD6,National Housing Bank^,CARE - AAA,2,1.2
+INE929O14FC1,Reliance Retail ventures Ltd.^,CRISIL - A1+,2,1.1918670476177
+INE811K01011,Prestige Estates Projects Ltd.,Realty,2,1.18
+INE296A07TI6,Bajaj Finance Ltd.^,CRISIL - AAA,2,1.17
+INE557F08GE4,National Housing Bank^,CARE - AAA,2,1.09
+INE261F08EL3,National Bank for Agri & Rural Dev.^,CRISIL - AAA,2,1.08
+INE741K01010,Creditaccess Grameen Limited,Finance,2,1.0717
+INE763G14M51,ICICI Securities Ltd^,CRISIL - A1+,2,1.07
+INE115A07QP9,LIC Housing Finance Ltd.^,CRISIL - AAA,2,1.06
+INE090AD6378,ICICI Bank Ltd. (15/09/2026) **#,ICRA A1+,2,1.05
+INE020B08DA7,REC Limited.^,CRISIL - AAA,2,1.0
+INE115A07QX3,LIC Housing Finance Ltd.^,CRISIL - AAA,2,1.0
+INE2I7G15010,Shivshakti Securitisation Trust (Originator - Sikka Ports & Terminals Limited)^,CRISIL - AAA(SO),2,0.9198731830962
+INE094A14KF6,Hindustan Petroleum Corporation Ltd. (23/09/2026) **,ICRA A1+,2,0.91
+INE007A01025,Crisil Limited,Finance,2,0.9
+INE033L07HU0,TATA Capital Housing Finance Ltd.^,CRISIL - AAA,2,0.85
+INE514E14TL4,Export-Import Bank of India (03/09/2026),CRISIL A1+,2,0.83
+INE129A01019,GAIL (India) Ltd.,Gas,2,0.81
+INE233B01017,Blue Dart Express Ltd.,Transport Services,2,0.7999999999999999
+INE377Y07508,Bajaj Housing Finance Ltd.^,CRISIL - AAA,2,0.7999999999999999
+INE427F01016,Chalet Hotels Ltd.,Leisure Services,2,0.7895
+INE540H01012,Voltamp Transformers Ltd.,Electrical Equipment,2,0.7885
+INE115A07QW5,LIC Housing Finance Ltd.^,CRISIL - AAA,2,0.7462303804369
+INE956O01016,LENSKART SOLUTIONS LIMITED,Retailing,2,0.7030439472864
+INE261F16AC3,National Bank for Agriculture and Rural Development (10/11/2026) **#,CRISIL A1+,2,0.69
+INE575P01011,Star Health and Allied Insurance Company Ltd,Insurance,2,0.62
+INE053F08478,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,2,0.61
+INE134E08NM4,Power Finance Corporation Ltd.^,CRISIL - AAA,2,0.59
+INE622W01025,ACME Solar Holdings Limited,Power,2,0.5819
+INE053F08536,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,2,0.5800000000000001
+INE00LO01017,Craftsman Automation Ltd,Auto Components,2,0.5681
+INE081A14HK9,Tata Steel Ltd.^,ICRA - A1+,2,0.56
+INE160A16VK7,Punjab National Bank (18/09/2026) **#,ICRA A1+,2,0.56
+INE031A08970,Housing and Urban Development Corporation Ltd.^,ICRA - AAA,2,0.54
+INE079J01017,Gateway Distriparks Limited,Transport Services,2,0.54
+INE520A01027,Zensar Technologies Ltd.,IT - Software,2,0.5314
+INE794A01010,Neuland Laboratories Limited,Pharmaceuticals & Biotechnology,2,0.52138381894
+INE020B01018,REC Limited.,Finance,2,0.5145
+INE949L01017,Au Small Finance Bank Ltd.,Banks,2,0.5026
+INE134E08NO0,Power Finance Corporation Ltd.^,CRISIL - AAA,2,0.5
+INE346A01027,ICICI PRUDENTIAL ASSET MANAGEMENT COMPANY LIMITED,Capital Markets,2,0.5
+INE377Y07532,Bajaj Housing Finance Ltd.^,CRISIL - AAA,2,0.48
+INE0CCU14153,Mindspace Business Parks Reit (23/09/2026) **,ICRA A1+,2,0.47
+INE571A01038,Ipca Laboratories Ltd.,Pharmaceuticals & Biotechnology,2,0.46
+INE556F08KV2,Small Industries Development Bank^,CRISIL - AAA,2,0.45999999999999996
+INE053F08395,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,2,0.45
+INE160A16UT0,Punjab National Bank (15/09/2026) #,ICRA A1+,2,0.45
+INE031A08947,Housing and Urban Development Corporation Ltd.^,CARE - AAA,2,0.44
+INE01TY01017,CANARA HSBC LIFE INSURANCE COMPANY LIMITED,Insurance,2,0.431787666885
+INE377Y07540,Bajaj Housing Finance Ltd.^,CRISIL - AAA,2,0.43
+INE406A01037,Aurobindo Pharma Ltd.,Pharmaceuticals & Biotechnology,2,0.43
+INE261F14PT0,National Bank for Agriculture and Rural Development (11/09/2026) **,ICRA A1+,2,0.42
+INE806T01020,SAPPHIRE FOODS INDIA LIMITED,Leisure Services,2,0.41309999999999997
+INE461C01038,Greenply Industries Ltd.,Consumer Durables,2,0.41
+INE258A01024,BEML Limited,"Agricultural, Commercial & Construction Vehicles",2,0.39
+INE517B14AJ7,Tata Teleservices (Maharastra) Ltd. (08/09/2026) **,CRISIL A1+,2,0.39
+INE237AD6042,Kotak Mahindra Bank Limited^,CRISIL - A1+,2,0.38
+INE040A08864,HDFC Bank Ltd.£^,CRISIL - AAA,2,0.37
+INE438A01022,Apollo Tyres Ltd.,Auto Components,2,0.37
+INE465A01025,Bharat Forge Ltd.,Auto Components,2,0.37
+INE476A16J82,Canara Bank (09/09/2026) **#,ICRA A1+,2,0.35
+INE514E14TP5,Export - Import Bank of India^,CRISIL - A1+,2,0.35
+INE556F14MK9,Small Industries Development Bank of India (11/09/2026) **,CRISIL A1+,2,0.35
+INE733E14CF8,NTPC Limited^,CRISIL - A1+,2,0.35
+INE763G14K61,ICICI Securities Ltd^,CRISIL - A1+,2,0.35
+INE763G14K79,ICICI Securities Ltd. (16/09/2026) **,ICRA A1+,2,0.35
+INE112L01020,Metropolis Healthcare Ltd.,Healthcare Services,2,0.3332
+INE094A08150,Hindustan Petroleum Corp. Ltd.^,CRISIL - AAA,2,0.33
+INE107A01015,Tamilnadu Newsprint & Papers Ltd.,"Paper, Forest & Jute Products",2,0.33
+INE261F08EQ2,National Bank for Agri & Rural Dev.^,ICRA - AAA,2,0.3208267864884
+INE975F07IP2,Kotak Mahindra Investments Ltd.^,CRISIL - AAA,2,0.31
+INE01XX07059,Pipeline Infrastructure Pvt. Ltd.^,CRISIL - AAA,2,0.304053519031
+INE193E01025,Bajaj Electricals Ltd.,Consumer Durables,2,0.30119999999999997
+INE414G07KC4,Muthoot Finance Ltd.^,CRISIL - AA+,2,0.2865943630103
+INE028A16MR0,Bank of Baroda,CARE - A1+,2,0.28
+INE211H14AW7,Sharekhan Ltd. (22/09/2026) **,ICRA A1+,2,0.28
+INE936D14436,Jamnagar Utilities & Power Pvt. Ltd. (29/09/2026) **,CRISIL A1+,2,0.28
+INE040A08AF2,HDFC Bank Ltd.£,CRISIL - AAA,2,0.2716700410021
+INE296A07TE5,Bajaj Finance Ltd.^,CRISIL - AAA,2,0.27
+INE017A01032,Great Eastern Shipping Company Ltd.,Transport Services,2,0.26
+INE171Z01026,Bharat Dynamics Limited,Aerospace & Defense,2,0.2518
+INE134E08NN2,Power Finance Corporation Ltd.^,CRISIL - AAA,2,0.25
+INE216P01012,Aavas Financiers Ltd.,Finance,2,0.2419
+INE269B01029,LMW Limited,Industrial Manufacturing,2,0.2419
+INE786A01032,JK Lakshmi Cement Ltd,Cement & Cement Products,2,0.23070000000000002
+INE195J01029,PNC Infratech Ltd.,Construction,2,0.2107
+INE020B08FB0,REC Limited.^,CRISIL - AAA,2,0.21000000000000002
+INE261F14PX2,National Bank for Agriculture and Rural Development (01/10/2026) **,ICRA A1+,2,0.21
+INE556F14MN3,Small Industries Development Bank^,CRISIL - A1+,2,0.21
+INE0HOQ01053,Billionbrains Garage Ventures Limited (Groww),Capital Markets,2,0.2038
+INE153A08170,Mahanagar Telephone Nigam  Ltd.^,CARE - AAA(CE),2,0.1857991431829
+INE556F08LB2,Small Industries Development Bank^,CRISIL - AAA,2,0.1847232351364
+INE261F08EK5,National Bank for Agri & Rural Dev.,CRISIL - AAA,2,0.1829983433829
+INE357L07481,Nomura Capital India Pvt. Ltd.^,IND - AAA,2,0.1810168980339
+INE19RI01016,TENNECO CLEAN AIR INDIA LIMITED,Auto Components,2,0.18
+INE127K08017,Nomura Fixed Income Securities Pvt.^,IND - AAA,2,0.1708435947204
+INE556F08KQ2,Small Industries Development Bank^,CRISIL - AAA,2,0.1705055370497
+INE261F08ES8,National Bank for Agri & Rural Dev.^,CRISIL - AAA,2,0.1619893266734
+INE067A01029,CG Power and Industrial Solutions Ltd.,Electrical Equipment,2,0.14489819580590002
+INE556F08KM1,Small Industries Development Bank^,CRISIL - AAA,2,0.14371338643630002
+INE028A16MO7,Bank of Baroda,CARE - A1+,2,0.14
+INE556F16BL5,Small Industries Development Bank^,CARE - A1+,2,0.14
+INE936D07190,Jamnagar Utilities & Power Pvt. Limited^,CRISIL - AAA,2,0.1254321329208
+INE404A01024,Aditya Birla Sun Life AMC Limited,Capital Markets,2,0.12539999999999998
+INE018E01016,SBI CARDS AND PAYMENT SERVICES LIMITED,Finance,2,0.1155
+INE053F08411,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,2,0.11
+INE476A16J41,Canara Bank,CRISIL - A1+,2,0.11
+INE545U01014,Bandhan Bank Ltd.,Banks,2,0.11
+INE031A08996,Housing and Urban Development Corporation Ltd.^,CARE - AAA,2,0.0999729741237
+INE121A07SU3,Cholamandalam Investment & Finance Co. Ltd.^,ICRA - AA+,2,0.0992676656349
+INE976I07DE9,Tata Capital Ltd.^,CRISIL - AAA,2,0.0945559586184
+INE134E08OA7,Power Finance Corporation Ltd.^,CRISIL - AAA,2,0.0925034497319
+INE556F08KK5,Small Industries Development Bank^,CRISIL - AAA,2,0.0905062275682
+INE115A07PN6,LIC Housing Finance Ltd.,CRISIL - AAA,2,0.0900571850409
+INE203G01027,Indraprastha Gas Ltd.,Gas,2,0.09
+INE692Q07449,Toyota Financial Services India Ltd.^,ICRA - AAA,2,0.09
+INE556F08KT6,Small Industries Development Bank^,CRISIL - AAA,2,0.0863775282553
+INE556F08KN9,Small Industries Development Bank^,CRISIL - AAA,2,0.0826997826811
+INE213W07293,SMFG India Home Finance Company Ltd^,CARE - AAA,2,0.0825272945162
+INE094J01016,UTI Asset Management Company Ltd,Capital Markets,2,0.0816
+INE1TUG01013,GSPL Transmission Limited**,Gas,2,0.08
+INE556F08KI9,7.44% Small Industries Development Bank of India (04/09/2026) **,CRISIL AAA,2,0.08
+INE128M08094,L&T Metro Rail (Hyderabad) Ltd^,CRISIL - AAA(CE),2,0.07164682947380001
+INE621L01012,Texmaco Rail & Engineering Ltd.,Industrial Manufacturing,2,0.07150000000000001
+INE160A16UO1,Punjab National Bank^,CRISIL - A1+,2,0.07
+INE556F16BN1,Small Industries Development Bank of India (27/10/2026) **#,CRISIL A1+,2,0.07
+INE466L01038,360 ONE WAM LIMITED,Capital Markets,2,0.0685125883611
+INE379A01028,ITC Hotels Limited,Leisure Services,2,0.0629535259308
+INE00IT01020,Milky Mist Dairy Food Limited,Food Products,2,0.0612
+INE343G01021,Bharti Hexacom Limited,Telecom - Services,2,0.059500000000000004
+INE261F08ED0,National Bank for Agri & Rural Dev.^,CRISIL - AAA,2,0.0530382580313
+INE047A08208,Grasim Industries Ltd.^,CRISIL - AAA,2,0.050337656833000004
+INE259A01022,Colgate-Palmolive ( I ) Ltd.,Personal Products,2,0.0456
+INE872J01023,Devyani International Ltd,Leisure Services,2,0.044
+INE061F01013,Fortis Healthcare Limited,Healthcare Services,2,0.04
+INE414G14UU1,Muthoot Finance Ltd. (11/09/2026) **,ICRA A1+,2,0.04
+INE261F08EI9,National Bank for Agri & Rural Dev.^,ICRA - AAA,2,0.03236068418
+INE743M01012,RHI MAGNESITA INDIA Limited,Industrial Products,2,0.0309
+INE419M01035,TD Power Systems Limited,Electrical Equipment,2,0.0284
+INE257A01026,Bharat Heavy Electricals Limited,Electrical Equipment,2,0.023799999999999998
+INE261F08EJ7,National Bank for Agri & Rural Dev.^,ICRA - AAA,2,0.0221839585892
+INE169A01031,Coromandel International Limited,Fertilizers & Agrochemicals,2,0.02
+INE296A07UB9,Bajaj Finance Ltd. **,CRISIL AAA,2,0.0199353444276
+INE088F01024,Paradeep Phosphates Limited,Fertilizers & Agrochemicals,2,0.0176
+INE16J715035,India Universal Trust AL1 **,FITCH AAA(SO),2,0.0172687616737
+INE745G01043,Multi Commodity Exchange Of India Ltd.,Capital Markets,2,0.0172202247447
+INE020B08EK4,Rural Electrification Corporation Ltd. **,CRISIL AAA,2,0.0149507718907
+INE003A01024,Siemens Ltd.,Electrical Equipment,2,0.0145520625482
+INE673O01025,TBO Tek Limited,Leisure Services,2,0.0139
+INE075I01017,Healthcare Global Enterprises Limited,Healthcare Services,2,0.0138
+INE115A01026,LIC Housing Finance Limited,Finance,2,0.0126
+INE320J01015,RITES Limited,Construction,2,0.0124
+INE589A01014,NLC India Limited,Power,2,0.0123
+INE278Y01022,Campus Activewear Limited,Consumer Durables,2,0.0111
+INE0FOO01011,Shiprocket Limited,Transport Services,2,0.011
+INE768C01028,Zydus Wellness Limited,Food Products,2,0.011
+INE858B01029,ISGEC Heavy Engineering Limited,Construction,2,0.0109
+INE073K01018,Sona Blw Precision Forgings Ltd.,Auto Components,2,0.0106904956231
+INE974X01010,Tube Investments of India Limited,Auto Components,2,0.0104
+INE2PB023011,RAAJMARG INFRA INVESTMENT TRUST,Transport Infrastructure,2,0.0101209244074
+INE092A01019,Tata Chemicals Ltd.,Chemicals & Petrochemicals,2,0.01
+INE628A01036,UPL Ltd.,Fertilizers & Agrochemicals,2,0.01
+INE322A01010,Gillette India Limited,Personal Products,2,0.0098
+INE040A16IZ6,HDFC Bank Ltd.,CRISIL A1+,2,0.0077849788323
+INE12UN01015,Shadowfax Technologies Ltd,Transport Services,2,0.0077738470162
+INE761H01022,Page Industries Ltd.,Textiles & Apparels,2,0.007480520265699999
+INE031B01049,,Pharmaceuticals and Biotechnology,2,0.0073
+INE040A16IU7,HDFC Bank Ltd. **,CRISIL A1+,2,0.0071537087969
+INE0CCU07215,MINDSPACE BUSINESS PARKS REIT **,ICRA AAA,2,0.0069012945679
+INE111A01025,Container Corporation Of India Ltd.,Transport Services,2,0.0063729857744
+INE071G07876,ICICI Home Finance Company Ltd. **,ICRA AAA,2,0.0059995398678
+INE0KQN01018,Bajel Projects Limited,Electrical Equipment,2,0.0058000000000000005
+INE597I01028,Sharda Motor Industries Ltd.,Auto Components,2,0.0058
+INE120A01034,Carborundum Universal Limited,Industrial Products,2,0.0055
+INE685A01028,Torrent Pharmaceuticals Ltd.,Pharmaceuticals & Biotechnology,2,0.0054305203382000004
+INE04I401011,KPIT Technologies Limited,IT - Software,2,0.0054
+INE457L01029,Pg Electroplast Ltd.,Consumer Durables,2,0.0052104646112
+INE930H01031,K.P.R. Mill Limited,Textiles & Apparels,2,0.0049
+INE725G01011,ICRA Limited,Capital Markets,2,0.0048
+INE16J715027,India Universal Trust AL1 **,FITCH AAA(SO),2,0.0046400583685
+INE226A01021,Voltas Ltd.,Consumer Durables,2,0.00451342517
+INE511C01022,,Finance,2,0.0045
+INE536A01023,Grindwell Norton Limited,Industrial Products,2,0.0045
+INE386C01029,,Aerospace and Defense,2,0.0044
+INE101I01011,Afcons Infrastructure Limited,Construction,2,0.004399999999999999
+INE205A01025,Vedanta Ltd.,Diversified Metals,2,0.0043759830547
+INE403D08272,Bharti Telecom Ltd. **,CRISIL AAA,2,0.0039913787226
+INE010B01027,Zydus Lifesciences Ltd.,Pharmaceuticals & Biotechnology,2,0.0035922458572
+INE596I01020,Computer Age Management Services Ltd.,Capital Markets,2,0.0031003922926
+INE261F08EV2,NABARD **,ICRA AAA,2,0.0024423836396
+INE513A01022,,Auto Components,2,0.0024
+INE0FS801015,Motherson Sumi Wiring India Ltd.,Auto Components,2,0.0022940637037
+INE202B01038,,Finance,2,0.0022
+INE410P01011,Narayana Hrudayalaya Limited,Healthcare Services,2,0.0022
+INE058A01010,Sanofi India Limited,Pharmaceuticals & Biotechnology,2,0.0018
+INE449A01011,Automotive Axles Limited,Auto Components,2,0.0016
+INE201P01022,G R Infraprojects Limited,Construction,2,0.0013
+INE951I01027,V-Guard Industries Ltd.,Consumer Durables,2,0.0006098913261
+INE00WV01027,CMR Green Technologies Limited,Industrial Products,2,0.0003
+INE018A14LX6,Larsen & Toubro Ltd. (04/09/2026) **,ICRA A1+,2,0.0
+INE01C314GA2,Bajaj Financial Securities Ltd. (09/09/2026) **,CRISIL A1+,2,0.0
+INE01C314GT2,Bajaj Financial Securities Ltd. (13/11/2026) **,CRISIL A1+,2,0.0
+INE022Q01020,Indian Energy Exchange Limited,Capital Markets,2,0.0
+INE028A16KK9,Bank of Baroda (25/11/2026) #,CARE A1+,2,0.0
+INE028A16MP4,Bank of Baroda (07/09/2026) #,CARE A1+,2,0.0
+INE02KN14721,Godrej Finance Ltd. (11/09/2026) **,ICRA A1+,2,0.0
+INE040A16HR5,HDFC Bank Ltd. (21/09/2026) **#,ICRA A1+,2,0.0
+INE040A16JO8,HDFC Bank Ltd. (07/09/2026) **#,ICRA A1+,2,0.0
+INE115A14FW4,LIC Housing Finance Ltd. (09/09/2026) **,ICRA A1+,2,0.0
+INE126A01031,EID Parry India Limited,Food Products,2,0.0
+INE128M14BJ8,L&T Metro Rail (Hyderabad) Ltd. [Guaranteed by Larsen & Toubro Ltd.] (21/09/2026) **,CRISIL A1+,2,0.0
+INE134E14AZ1,Power Finance Corporation Limited (18/11/2026),CRISIL A1+,2,0.0
+INE238AD6BP3,Axis Bank Ltd. (27/11/2026) #,CRISIL A1+,2,0.0
+INE261F14PN3,National Bank for Agriculture and Rural Development (03/09/2026) **,CRISIL A1+,2,0.0
+INE261F14QB6,National Bank for Agriculture and Rural Development (13/11/2026) **,CRISIL A1+,2,0.0
+INE282H14121,Jio Credit Ltd. (18/09/2026) **,CRISIL A1+,2,0.0
+INE422H14495,DSP Finance Pvt. Ltd. (17/09/2026) **,ICRA A1+,2,0.0
+INE522D14OT3,Manappuram Finance Ltd. (16/09/2026) **,CRISIL A1+,2,0.0
+INE608A16TK9,Punjab & Sind Bank (15/09/2026) **#,ICRA A1+,2,0.0
+INE608A16TL7,Punjab & Sind Bank (16/09/2026) **#,ICRA A1+,2,0.0
+INE733E14CE1,NTPC Ltd. (05/10/2026) **,ICRA A1+,2,0.0
+INE763G14K38,ICICI Securities Ltd. (08/09/2026) **,ICRA A1+,2,0.0
+INE556F14MJ1,Small Industries Development Bank,CRISIL - A1+,1,2.38
+INE028A16KI3,Bank of Baroda^,CARE - A1+,1,2.05
+INE261F14QC4,National Bank for Agri & Rural Dev.^,ICRA - A1+,1,1.73
+INE020B08BH6,REC Limited.^,CRISIL - AAA,1,1.51
+INE377Y07623,Bajaj Housing Finance Ltd.^,CRISIL - AAA,1,1.51
+INE528G16X94,Yes Bank Ltd.^,CARE - A1+,1,1.38
+INE906B07GP0,National Highways Authority of India^,CRISIL - AAA,1,1.38
+INE674K14CZ9,Aditya Birla Capital ltd.^,ICRA - A1+,1,1.24
+INE040A08914,HDFC Bank Ltd.£^,CRISIL - AAA,1,1.16
+INE556F08KR0,Small Industries Development Bank^,CRISIL - AAA,1,1.15
+INE280A14625,Titan Company Ltd.^,CARE - A1+,1,1.14
+INE084A16GC7,Bank of India^,CRISIL - A1+,1,1.12
+INE102D14CI2,Godrej Consumer Products Ltd.^,CRISIL - A1+,1,1.11
+INE498L14GF4,L&T Finance Ltd.^,CRISIL - A1+,1,1.04
+INE498L14GG2,L&T Finance Ltd.^,CRISIL - A1+,1,1.04
+INE020B08EA5,REC Limited.^,CRISIL - AAA,1,0.99
+INE028E14WX4,Kotak Securities Ltd.^,CRISIL - A1+,1,0.98
+INE084A16GG8,Bank of India^,CARE - A1+,1,0.98
+INE062A08470,State Bank of India^,CARE - AAA,1,0.96
+INE020B14714,REC Limited.^,CARE - A1+,1,0.9
+INE040A08369,HDFC Bank Ltd.£^,CRISIL - AAA,1,0.89
+INE665L01035,Varroc Engineering Limited,Auto Components,1,0.88
+INE261F14PQ6,National Bank for Agri & Rural Dev.,ICRA - A1+,1,0.84
+INE688A01022,Transport Corporation of India Ltd.,Transport Services,1,0.84
+INE028E14XP8,Kotak Securities Ltd.^,CRISIL - A1+,1,0.83
+INE115A07QU9,LIC Housing Finance Ltd.^,CRISIL - AAA,1,0.83
+INE377Y07474,Bajaj Housing Finance Ltd.^,CRISIL - AAA,1,0.83
+INE511C14ZU2,Poonawalla Fincorp Ltd^,CRISIL - A1+,1,0.83
+INE535H07CH0,SMFG India Credit Company Ltd^,ICRA - AAA,1,0.83
+INE0KUG08019,National Bank for Financing Infrastructure and Development^,CRISIL - AAA,1,0.81
+INE103A08035,MANGALORE REFINERY AND PETROCHEMICA^,CRISIL - AAA,1,0.81
+INE787D01026,Balkrishna Industries Ltd.,Auto Components,1,0.81
+INE031A08962,Housing and Urban Development Corporation Ltd.^,CARE - AAA,1,0.8
+INE00V208124,John Deere Financial India Pvt. Ltd.^,CRISIL - AAA,1,0.79
+INE053F07AY7,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.79
+INE975F07IR8,Kotak Mahindra Investments Ltd.^,CRISIL - AAA,1,0.78
+INE891D01026,Redington Ltd.,Commercial Services & Supplies,1,0.77
+INE280A14617,Titan Company Ltd.^,CARE - A1+,1,0.76
+INE756I07EJ2,HDB Financial Services Ltd.^,CRISIL - AAA,1,0.73
+INE01C314GC8,Bajaj Financial Securities Limited^,CRISIL - A1+,1,0.7
+INE01GA16319,DBS BANK INDIA LIMITED^,IND - A1+,1,0.7
+INE036D16KJ8,Karur Vysya Bank Ltd.^,ICRA - A1+,1,0.7
+INE245A14LD7,The Tata Power Company Ltd.^,ICRA - A1+,1,0.7
+INE245A14LE5,The Tata Power Company Ltd.^,CRISIL - A1+,1,0.7
+INE261F14PV6,National Bank for Agri & Rural Dev.^,ICRA - A1+,1,0.7
+INE261F14PW4,National Bank for Agri & Rural Dev.^,ICRA - A1+,1,0.7
+INE296A14H68,Bajaj Finance Ltd.^,CRISIL - A1+,1,0.7
+INE763G14K46,ICICI Securities Ltd^,CRISIL - A1+,1,0.7
+INE831R14GF3,Aditya Birla Housing Finance Ltd^,CRISIL - A1+,1,0.7
+INE849D14IB0,ICICI SECURITIES PRIMARY DEALERSHIP^,CRISIL - A1+,1,0.7
+INE028E14XQ6,Kotak Securities Ltd.^,CRISIL - A1+,1,0.69
+INE511C14ZV0,Poonawalla Fincorp Ltd^,CRISIL - A1+,1,0.69
+INE133A01011,JSW Dulux Limited,Consumer Durables,1,0.68
+INE134E08MX3,Power Finance Corporation Ltd.^,CRISIL - AAA,1,0.66
+INE0OJ808028,ASCENDAS IT PARK PUNE PRIVATE LIMITED^,CRISIL - AAA,1,0.65
+INE752E08676,Power Grid Corporation of India Ltd.^,CRISIL - AAA,1,0.65
+INE053F08486,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.64
+INE0KUG08050,National Bank for Financing Infrastructure and Development^,CRISIL - AAA,1,0.63
+INE0CZ201020,Anthem Biosciences Limited,Pharmaceuticals & Biotechnology,1,0.61
+INE115A07QY1,LIC Housing Finance Ltd.^,CRISIL - AAA,1,0.6
+INE134E08MJ2,Power Finance Corporation Ltd.^,CRISIL - AAA,1,0.6
+INE481G08149,UltraTech Cement Limited^,CRISIL - AAA,1,0.59
+INE092T16ZZ1,IDFC First Bank Limited^,CRISIL - A1+,1,0.56
+INE115A14FX2,LIC Housing Finance Ltd.^,CRISIL - A1+,1,0.56
+INE151A14305,Tata Communications Limited^,CRISIL - A1+,1,0.56
+INE18UV14075,Bajaj Auto Credit Limited^,CRISIL - A1+,1,0.56
+INE071G14IG3,ICICI Home Finance Ltd^,CARE - A1+,1,0.55
+INE211H14AZ0,Sharekhan Limited^,CRISIL - A1+,1,0.55
+INE674K14CX4,Aditya Birla Capital ltd.^,ICRA - A1+,1,0.55
+INE934S01014,GNA Axles Ltd.,Auto Components,1,0.52
+INE053F07BA5,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.51
+INE062A08447,State Bank of India (Tier 2 - Basel III)^,ICRA - AAA,1,0.51
+INE756I07FG5,HDB Financial Services Ltd.^,CRISIL - AAA,1,0.51
+INE094A08135,Hindustan Petroleum Corp. Ltd.^,CRISIL - AAA,1,0.5
+INE01C314GE4,Bajaj Financial Securities Limited^,CRISIL - A1+,1,0.49
+INE036D16KK6,Karur Vysya Bank Ltd.^,ICRA - A1+,1,0.49
+INE366I01010,VRL Logistics Ltd.,Transport Services,1,0.49
+INE020B08FO3,REC Limited.^,CRISIL - AAA,1,0.48
+INE2J8701016,SKF India (Industrial) Limited,Industrial Products,1,0.48
+INE020B08BO2,REC Limited.^,CRISIL - AAA,1,0.47
+INE002A08542,Reliance Industries Ltd.^,CRISIL - AAA,1,0.44
+INE020B08BG8,REC Limited.^,IND - AAA,1,0.44
+INE02ZQ01018,CORONA REMEDIES LIMITED,Pharmaceuticals & Biotechnology,1,0.42
+INE118D14AN2,Nuvoco Vistas Corporation Ltd.^,CRISIL - A1+,1,0.42
+INE121A14YV5,Cholamandalam Investment & Finance Co. Ltd.,CRISIL - A1+,1,0.42
+INE192R14352,Avenue Supermarts Ltd.^,ICRA - A1+,1,0.42
+INE192R14360,Avenue Supermarts Ltd.^,ICRA - A1+,1,0.42
+INE476A16K30,Canara Bank,CRISIL - A1+,1,0.42
+INE183A01024,Finolex Industries Ltd.,Industrial Products,1,0.41
+INE261F08EH1,National Bank for Agri & Rural Dev.^,CRISIL - AAA,1,0.41
+INE294Z01018,The Anup Engineering Limited,Industrial Manufacturing,1,0.41
+INE535H07CJ6,SMFG India Credit Company Ltd^,CARE - AAA,1,0.41
+INE692Q07480,Toyota Financial Services India Ltd.^,ICRA - AAA,1,0.41
+INE813H07457,Torrent Power Ltd.^,CRISIL - AA+,1,0.41
+INE844O01030,Gujarat Energy Limited,Gas,1,0.41
+INE752E08726,Power Grid Corporation of India Ltd.^,CRISIL - AAA,1,0.4
+INE085001019,WeWork India Management Limited,Commercial Services & Supplies,1,0.39
+INE221B01012,Dynamatic Technologies Ltd.,Industrial Manufacturing,1,0.39
+INE285K01026,Techno Electric & Engin. Co. Ltd.,Construction,1,0.39
+INE115A14FY0,LIC Housing Finance Ltd.^,CRISIL - A1+,1,0.38
+INE298J01013,Nippon Life India Asset Management Limited,Capital Markets,1,0.38
+INE517F01014,Gujarat Pipavav Port Ltd.,Transport Infrastructure,1,0.36
+INE071G14IC2,ICICI Home Finance Ltd^,CARE - A1+,1,0.35
+INE094A14KM2,Hindustan Petroleum Corp. Ltd.^,CRISIL - A1+,1,0.35
+INE296A14J66,Bajaj Finance Ltd.^,CRISIL - A1+,1,0.35
+INE565A16BV6,Indian Overseas Bank^,CARE - A1+,1,0.35
+INE674K14CK1,Aditya Birla Capital ltd.^,ICRA - A1+,1,0.35
+INE824H14UU9,Julius Baer Capital (India) Pvt. Ltd.^,CRISIL - A1+,1,0.35
+INE824H14UZ8,Julius Baer Capital (India) Pvt. Ltd.^,CRISIL - A1+,1,0.35
+INE020B08BE3,REC Limited.^,CRISIL - AAA,1,0.34
+INE020B08BU9,REC Limited.^,CRISIL - AAA,1,0.34
+INE752E08692,Power Grid Corporation of India Ltd.^,CRISIL - AAA,1,0.34
+INE040A08435,HDFC Bank Ltd. (Tier 2 - Basel III)£^,CRISIL - AAA,1,0.33
+INE040A08773,HDFC Bank Ltd.£,CRISIL - AAA,1,0.33
+INE053F07BW9,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.33
+INE115A07RD3,LIC Housing Finance Ltd.^,CRISIL - AAA,1,0.33
+INE128S01021,Five-Star Business Finance Limited,Finance,1,0.33
+INE134E08MA1,Power Finance Corporation Ltd.,CRISIL - AAA,1,0.33
+INE242A08544,Indian Oil Corporation Ltd.^,CRISIL - AAA,1,0.33
+INE282H07067,Jio Credit Ltd,CRISIL - AAA,1,0.33
+INE357L07473,Nomura Capital India Pvt. Ltd.^,IND - AAA,1,0.33
+INE752E08718,Power Grid Corporation of India Ltd.^,CRISIL - AAA,1,0.33
+INE906B07HG7,National Highways Authority of India^,CRISIL - AAA,1,0.33
+INE916DA7SE8,Kotak Mahindra Prime Ltd.^,CRISIL - AAA,1,0.33
+INE053F08528,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.32
+INE134E08NR3,Power Finance Corporation Ltd.^,CRISIL - AAA,1,0.32
+INE261F08AX6,National Bank for Agri & Rural Dev.^,CRISIL - AAA,1,0.32
+INE377Y07516,Bajaj Housing Finance Ltd.^,CRISIL - AAA,1,0.32
+INE556F08KZ3,Small Industries Development Bank^,CRISIL - AAA,1,0.32
+INE615H01020,Titagarh Wagons Limited,Industrial Manufacturing,1,0.32
+INE377Y07300,Bajaj Housing Finance Ltd.^,CRISIL - AAA,1,0.31
+INE053F08106,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.3
+INE035D01020,Savita Oil Technologies Ltd.,Petroleum Products,1,0.29
+INE053F07AZ4,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.29
+INE07T201019,Restaurant Brands Asia Limited,Leisure Services,1,0.29
+INE0GGX23010,POWERGRID Infrastructure Investment Trust,Power,1,0.29
+INE008A169B5,IDBI Bank Limited^,CRISIL - A1+,1,0.28
+INE028E14XY0,Kotak Securities Ltd.^,CRISIL - A1+,1,0.28
+INE0T2V14129,Mirae Asset Capital Markets (India) Pvt Ltd.^,CRISIL - A1+,1,0.28
+INE212K14EK6,SBICap Securities Limited^,CRISIL - A1+,1,0.28
+INE296A07SV1,Bajaj Finance Ltd.^,CRISIL - AAA,1,0.28
+INE422H14602,DSP Finance Private Limited^,ICRA - A1+,1,0.28
+INE481G08156,UltraTech Cement Limited^,CRISIL - AAA,1,0.28
+INE296A14J25,Bajaj Finance Ltd.^,CRISIL - A1+,1,0.26
+INE020B08BQ7,REC Limited.^,CRISIL - AAA,1,0.25
+INE094A08143,Hindustan Petroleum Corp. Ltd.^,CRISIL - AAA,1,0.25
+INE206D08493,Nuclear Power Corporation of India Ltd.^,ICRA - AAA,1,0.25
+INE261F08DU6,National Bank for Agri & Rural Dev.^,CRISIL - AAA,1,0.25
+INE261F08DY8,National Bank for Agri & Rural Dev.^,CRISIL - AAA,1,0.25
+INE296A07TJ4,Bajaj Finance Ltd.,CRISIL - AAA,1,0.25
+INE756I07FQ4,HDB Financial Services Ltd.^,CRISIL - AAA,1,0.25
+INE028A08315,Bank of Baroda (Tier 2 - Basel III)^,CRISIL - AAA,1,0.23
+INE028A16KX2,Bank of Baroda^,CARE - A1+,1,0.23
+INE0LEZ01016,Ather Energy Limited,Automobiles,1,0.23
+INE160A08324,Punjab National Bank^,CRISIL - AAA,1,0.23
+INE225D01027,Symphony Ltd.,Consumer Durables,1,0.23
+INE484J01027,Godrej Properties Ltd.,Realty,1,0.23
+INE576I01022,J.Kumar Infraprojects Ltd.,Construction,1,0.23
+INE756I07EU9,HDB Financial Services Ltd.^,CRISIL - AAA,1,0.23
+INE906B07HH5,National Highways Authority of India^,CRISIL - AAA,1,0.23
+INE484J14F89,Godrej Properties Ltd.^,ICRA - A1+,1,0.21
+INE484J14F97,Godrej Properties Ltd.^,ICRA - A1+,1,0.21
+INE484J14G05,Godrej Properties Ltd.^,ICRA - A1+,1,0.21
+INE484J14G13,Godrej Properties Ltd.^,ICRA - A1+,1,0.21
+INE508G01029,Time Technoplast Limited,Industrial Products,1,0.21
+INE769A14AJ6,Aarti Industries Ltd.^,CRISIL - A1+,1,0.21
+INE769A14AK4,Aarti Industries Ltd.^,CRISIL - A1+,1,0.21
+INE865C14QX5,Aditya Birla Money Limited^,CRISIL - A1+,1,0.21
+INE865C14RC7,Aditya Birla Money Limited^,CRISIL - A1+,1,0.21
+INE989C01038,Diamond Power Infrastructure Limited,Electrical Equipment,1,0.21
+INE935A01035,Glenmark Pharmaceuticals Ltd.,Pharmaceuticals & Biotechnology,1,0.2
+INE053F08353,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.19
+INE062A08405,State Bank of India (Tier 2 - Basel III)^,CRISIL - AAA,1,0.19
+INE121A08PP7,Cholamandalam Investment & Finance Co. Ltd.^,ICRA - AA+,1,0.19
+INE557F08FZ1,National Housing Bank^,CRISIL - AAA,1,0.19
+INE602A01031,PCBL Chemical Limited,Chemicals & Petrochemicals,1,0.19
+INE011K01018,TEGA INDUSTRIES LIMITED,Industrial Manufacturing,1,0.18
+INE020B08EP3,REC Limited.^,CRISIL - AAA,1,0.18
+INE03QK01018,Cohance Lifesciences Limited,Pharmaceuticals & Biotechnology,1,0.18
+INE071G07694,ICICI Home Finance Ltd^,CARE - AAA,1,0.18
+INE442H01029,Ashoka Buildcon Ltd.,Construction,1,0.18
+INE660A07SC8,Sundaram Finance Ltd.^,ICRA - AAA,1,0.18
+INE002A08534,Reliance Industries Ltd.^,CRISIL - AAA,1,0.17
+INE031A08616,Housing and Urban Development Corporation Ltd.^,CARE - AAA,1,0.17
+INE053F08247,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.17
+INE206D08501,Nuclear Power Corporation of India Ltd.^,ICRA - AAA,1,0.17
+INE242A08551,Indian Oil Corporation Ltd.^,CRISIL - AAA,1,0.17
+INE261F08AP2,National Bank for Agri & Rural Dev.^,CRISIL - AAA,1,0.17
+INE261F08BH7,National Bank for Agri & Rural Dev.^,CRISIL - AAA,1,0.17
+INE484J14G21,Godrej Properties Ltd.^,ICRA - A1+,1,0.17
+INE498L07038,L&T Finance Ltd.^,ICRA - AAA,1,0.17
+INE498L07046,L&T Finance Ltd.^,CRISIL - AAA,1,0.17
+INE020B08FU0,REC Limited.^,CARE - AAA,1,0.16
+INE053F08403,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.16
+INE053F08502,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.16
+INE062A08330,State Bank of India^,ICRA - AAA,1,0.16
+INE062A08389,State Bank of India^,ICRA - AAA,1,0.16
+INE094A08176,Hindustan Petroleum Corp. Ltd.^,CRISIL - AAA,1,0.16
+INE121A08PZ6,Cholamandalam Investment & Finance Co. Ltd.^,CARE - AA+,1,0.16
+INE151A08356,Tata Communications Limited^,CRISIL - AAA,1,0.16
+INE514E08GE8,Export - Import Bank of India^,CRISIL - AAA,1,0.16
+INE557F08GC8,National Housing Bank^,CARE - AAA,1,0.16
+INE020B08FE4,REC Limited.^,CRISIL - AAA,1,0.15
+INE382Z01011,Garden Reach Shipbuilders & Engineers Limited,Aerospace & Defense,1,0.15
+INE692Q07514,Toyota Financial Services India Ltd.^,CRISIL - AAA,1,0.15
+INE115A07QO2,LIC Housing Finance Ltd.^,CRISIL - AAA,1,0.14
+INE115A07RC5,LIC Housing Finance Ltd.^,CRISIL - AAA,1,0.14
+INE118D14AP7,Nuvoco Vistas Corporation Ltd.^,CRISIL - A1+,1,0.14
+INE212K14EL4,SBICap Securities Limited^,CRISIL - A1+,1,0.14
+INE212K14EN0,SBICap Securities Limited^,CRISIL - A1+,1,0.14
+INE212K14EO8,SBICap Securities Limited^,CRISIL - A1+,1,0.14
+INE282H14154,Jio Credit Ltd^,CRISIL - A1+,1,0.14
+INE414G07JZ7,Muthoot Finance Ltd.^,CRISIL - AA+,1,0.14
+INE746L14036,Goldman Sachs (India) Finance Pvt. Ltd.^,ICRA - A1+,1,0.14
+INE752E08775,Power Grid Corporation of India Ltd.^,CRISIL - AAA,1,0.14
+INE763G14M69,ICICI Securities Ltd^,CRISIL - A1+,1,0.14
+INE870H14XT8,Network 18 Media & Investments Limited^,CARE - A1+,1,0.14
+INE879F14ND8,Infina Finance Pvt. Ltd.^,CRISIL - A1+,1,0.14
+INE906B07GO3,National Highways Authority of India^,CRISIL - AAA,1,0.14
+INE941D14774,Sikka Port and Terminal Ltd.^,CRISIL - A1+,1,0.14
+INE973U14300,Nu Vista Limited^,CRISIL - A1+,1,0.14
+INE134E08JP5,Power Finance Corporation Ltd.^,CRISIL - AAA,1,0.13
+INE357L07507,Nomura Capital India Pvt. Ltd.^,IND - AAA,1,0.13
+INE528G16X60,Yes Bank Ltd.^,CRISIL - A1+,1,0.13
+INE660A07SD6,Sundaram Finance Ltd.^,ICRA - AAA,1,0.13
+INE162A01010,Gujarat Industries Power Co. Ltd.,Power,1,0.12
+INE324D01010,LG Electronics India Limited,Consumer Durables,1,0.11
+INE020B08BS3,REC Limited.^,CRISIL - AAA,1,0.1
+INE020B08CX1,REC Limited.^,CRISIL - AAA,1,0.1
+INE134E08MD5,Power Finance Corporation Ltd.^,CRISIL - AAA,1,0.1
+INE134E08ME3,Power Finance Corporation Ltd.^,CRISIL - AAA,1,0.1
+INE134E08MF0,Power Finance Corporation Ltd.^,CRISIL - AAA,1,0.1
+INE134E08MG8,Power Finance Corporation Ltd.^,CRISIL - AAA,1,0.1
+INE115A07MQ6,LIC Housing Finance Ltd.^,CRISIL - AAA,1,0.09
+INE115A07QQ7,LIC Housing Finance Ltd.^,CRISIL - AAA,1,0.09
+INE261F08EN9,National Bank for Agri & Rural Dev.^,CRISIL - AAA,1,0.09
+INE296A07TY3,Bajaj Finance Ltd.^,CRISIL - AAA,1,0.09
+INE556F08LD8,Small Industries Development Bank^,CRISIL - AAA,1,0.09
+INE557F08FX6,National Housing Bank^,CARE - AAA,1,0.09
+INE557F08FY4,National Housing Bank^,CRISIL - AAA,1,0.09
+INE692A16KU1,Union Bank of India^,ICRA - A1+,1,0.09
+INE002A08690,Reliance Industries Ltd.^,CRISIL - AAA,1,0.08
+INE020B08EC1,REC Limited.^,CRISIL - AAA,1,0.08
+INE020B08GE2,REC Limited.^,CRISIL - AAA,1,0.08
+INE040A08AB1,HDFC Bank Ltd.£^,CRISIL - AAA,1,0.08
+INE053F08296,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.08
+INE053F08452,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.08
+INE062A08348,State Bank of India^,ICRA - AAA,1,0.08
+INE115A07OB4,LIC Housing Finance Ltd.^,CRISIL - AAA,1,0.08
+INE115A07QM6,LIC Housing Finance Ltd.^,CRISIL - AAA,1,0.08
+INE134E08KC1,Power Finance Corporation Ltd.^,CRISIL - AAA,1,0.08
+INE134E08KV1,Power Finance Corporation Ltd.^,CRISIL - AAA,1,0.08
+INE261F08BA2,National Bank for Agri & Rural Dev.^,CRISIL - AAA,1,0.08
+INE498L07145,L&T Finance Ltd.^,CRISIL - AAA,1,0.08
+INE514E08GF5,Export - Import Bank of India^,CRISIL - AAA,1,0.08
+INE733E07KJ7,NTPC Limited^,CRISIL - AAA,1,0.08
+INE733E08239,NTPC Limited^,CRISIL - AAA,1,0.08
+INE906B07HD4,National Highways Authority of India^,CRISIL - AAA,1,0.08
+INE906B07HF9,National Highways Authority of India^,CRISIL - AAA,1,0.08
+INE976I07DF6,Tata Capital Ltd.^,CRISIL - AAA,1,0.08
+INE047A14BB2,Grasim Industries Ltd.^,CRISIL - A1+,1,0.07
+INE053F07AA7,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.07
+INE053F08312,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.07
+INE053F08387,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.07
+INE0INX01018,Aegis Vopak Terminals Limited,Oil,1,0.07
+INE256A01028,Zee Entertainment Enterprises Ltd.,Entertainment,1,0.07
+INE371K14DP1,Tata Realty and Infrastructure Ltd.^,CRISIL - A1+,1,0.07
+INE481N01025,Home First Finance Company India Ltd,Finance,1,0.07
+INE556F08LC0,Small Industries Development Bank,CRISIL - AAA,1,0.07
+INE848E07AN6,NHPC Ltd.^,CARE - AAA,1,0.07
+INE865C14QI6,Aditya Birla Money Limited^,CRISIL - A1+,1,0.07
+INE031A01017,Housing and Urban Development Corporation Ltd.,Finance,1,0.06
+INE669E01016,VODAFONE IDEA LIMITED,Telecom - Services,1,0.06
+INE020B08BJ2,REC Limited.^,CRISIL - AAA,1,0.05
+INE040A08955,HDFC Bank Ltd.£^,CRISIL - AAA,1,0.05
+INE047A08190,Grasim Industries Ltd.^,CRISIL - AAA,1,0.05
+INE053F08320,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.05
+INE115A07PV9,LIC Housing Finance Ltd.^,CRISIL - AAA,1,0.05
+INE274F01020,Westlife Foodworld Limited,Leisure Services,1,0.05
+INE357L07499,Nomura Capital India Pvt. Ltd.^,IND - AAA,1,0.05
+INE403D08314,Bharti Telecom Limited,CRISIL - AAA,1,0.05
+INE403D08322,Bharti Telecom Limited^,CRISIL - AAA,1,0.05
+INE692A08029,Union Bank of India (Perpetual) (AT1) (Basel III)^,CARE - AA+,1,0.05
+INE752E07OF7,Power Grid Corporation of India Ltd.^,CRISIL - AAA,1,0.05
+INE0AG901020,Ceigall India Limited,Construction,1,0.04
+INE238AD6CM8,Axis Bank Ltd.^,CRISIL - A1+,1,0.04
+INE020B08BC7,REC Limited.^,CRISIL - AAA,1,0.03
+INE040A08690,HDFC Bank Ltd.£^,CRISIL - AAA,1,0.03
+INE040A08831,HDFC Bank Ltd.£^,CRISIL - AAA,1,0.03
+INE238AD6CD7,Axis Bank Ltd.^,CRISIL - A1+,1,0.03
+INE246B01019,Ramco Systems Ltd.,IT - Software,1,0.03
+INE456Z01021,Medi Assist Healthcare Services Limited,Insurance,1,0.03
+INE556F16BO9,Small Industries Development Bank^,CARE - A1+,1,0.03
+INE848E08193,NHPC Ltd.^,CARE - AAA,1,0.03
+INE848E08219,NHPC Ltd.^,CARE - AAA,1,0.03
+INE848E08227,NHPC Ltd.^,CARE - AAA,1,0.03
+INE848E08235,NHPC Ltd.^,CARE - AAA,1,0.03
+INE848E08243,NHPC Ltd.^,CARE - AAA,1,0.03
+INE053F08270,Indian Railways Finance Corp. Ltd.^,CRISIL - AAA,1,0.02
+INE0MWH01014,TruAlt Bioenergy Limited,Agricultural Food & Other Products,1,0.02
+INE0N7W01012,BEML Land Assets Limited,Finance,1,0.02
+INE0QTL15013,Sansar Trust July 2023 II (Originator - Shriram Finance Limited)^,CRISIL - AAA(SO),1,0.02
+INE139R01012,Fusion Finance Limited,Finance,1,0.02
+INE377Y01014,Bajaj Housing Finance Ltd.,Finance,1,0.02
+INE498L01015,L&T Finance Ltd.,Finance,1,0.02
+INE819V01029,Aditya Infotech Limited,Industrial Manufacturing,1,0.02
+INE891K07AM5,Axis Finance Ltd.^,CRISIL - AAA,1,0.02
+INE916DA7SJ7,Kotak Mahindra Prime Ltd.^,CRISIL - AAA,1,0.02
+INE941D07158,Sikka Port and Terminal Ltd.^,CRISIL - AAA,1,0.02
+INE238A08518,Axis Bank Ltd. **,CRISIL AAA,1,0.016121688111
+INE036D01028,Karur Vysya Bank Limited,Banks,1,0.0134
+INE387A01021,Sundram Fasteners Limited,Auto Components,1,0.0124
+INE134E08NP7,Power Finance Corporation Ltd.,CRISIL AAA,1,0.0117577590982
+INE570L01029,Sai Life Sciences Limited,Pharmaceuticals & Biotechnology,1,0.0116
+INE0LCL01028,Avalon Technologies Limited,Electrical Equipment,1,0.0112
+INE913H01037,Endurance Technologies Limited,Auto Components,1,0.0111
+INE732A01036,Kirloskar Brothers Limited,Industrial Products,1,0.0104
+INE774D07VK8,Mahindra & Mahindra Financial Services Ltd. **,CRISIL AAA,1,0.0101193674242
+INE306N07NI9,Tata Capital Financial Services Ltd. **,CRISIL AAA,1,0.0100470819216
+INE020B08FZ9,Rural Electrification Corporation Ltd. **,ICRA AAA,1,0.0100380512863
+INE0OAF01028,JNK India Limited,Industrial Manufacturing,1,0.01
+INE168P01015,Emcure Pharmaceuticals Limited,Pharmaceuticals & Biotechnology,1,0.01
+INE377Y07664,Bajaj Housing Finance Ltd.,CRISIL AAA,1,0.0099689017484
+INE746L07014,GS India Finance Pvt Ltd **,ICRA AAA,1,0.0099332507811
+INE476A16I00,Canara Bank **,CRISIL A1+,1,0.009783573307
+INE020B08FA2,Rural Electrification Corporation Ltd. **,CRISIL AAA,1,0.0097738319429
+INE507T07146,Summit Digitel Infrastructure Private Ltd. **,CRISIL AAA,1,0.0095662688042
+INE280B01018,Elantas Beck India Limited,Chemicals & Petrochemicals,1,0.0095
+INE119A01028,Balrampur Chini Mills Limited,Agricultural Food & other Products,1,0.0093
+INE146L01010,Kirloskar Oil Engines Limited,Industrial Products,1,0.0086
+INE041007183,EMBASSY OFFICE PARKS REIT **,CRISIL AAA,1,0.0084023812659
+INE774D07VP7,Mahindra & Mahindra Financial Services Ltd. **,CRISIL AAA,1,0.0083938760984
+INE738I01010,eClerx Services Limited,Commercial Services & Supplies,1,0.0083
+INE0VDM01015,Meesho Ltd,Retailing,1,0.0082
+INE864I01014,MTAR Technologies Limited,Electrical Equipment,1,0.0081
+INE358A01014,Abbott India Limited,Pharmaceuticals & Biotechnology,1,0.008
+INE944F01028,Radico Khaitan Limited,Beverages,1,0.0078
+INE040A16JC3,HDFC Bank Ltd. **,CRISIL A1+,1,0.0077178753726
+INE950O07560,Mahindra Rural Housing Finance Ltd. **,CRISIL AAA,1,0.0075448347025
+INE548C01032,Emami Limited,Personal Products,1,0.0074
+INE020B08FF1,Rural Electrification Corporation Ltd. **,ICRA AAA,1,0.0072489828728
+INE455K01017,Polycab India Ltd.,Industrial Products,1,0.0071945632484
+INE811A01038,Kirloskar Pneumatic Company Limited,Industrial Products,1,0.0071
+INE05HV01027,Central Mine Planning & Design Institute Limited,Commercial Services & Supplies,1,0.0069
+INE182A01018,Pfizer Limited,Pharmaceuticals & Biotechnology,1,0.0068
+INE377Y07656,Bajaj Housing Finance Ltd.,CRISIL AAA,1,0.0067762033493
+INE0NDH07050,Nexus Select Trust **,ICRA AAA,1,0.0067061814001
+INE071G07868,ICICI Home Finance Company Ltd. **,ICRA AAA,1,0.0066940956414
+INE572E01012,PNB Housing Finance Limited,Finance,1,0.0066
+INE556F16CC2,Small Industries Development Bank Of India. **,CRISIL A1+,1,0.0065174643652
+INE115A07MW4,LIC Housing Finance Ltd. **,CRISIL AAA,1,0.0064160052961
+INE284A01012,Esab India Limited,Industrial Products,1,0.0063
+INE1NPP01017,Siemens Energy India Limited,Electrical Equipment,1,0.0062
+INE872H01027,Lumax Auto Technologies Limited,Auto Components,1,0.0062
+INE603J01030,PI Industries Ltd.,Fertilizers & Agrochemicals,1,0.0061184134763
+INE699H01024,AWL Agri Business Limited,Agricultural Food & other Products,1,0.0061
+INE048G01026,Navin Fluorine International Limited,Chemicals & Petrochemicals,1,0.006
+INE0CLI01024,Rategain Travel Technologies Limited,IT - Software,1,0.006
+INE439A01020,Asahi India Glass Limited,Auto Components,1,0.0059
+INE825A01020,Vardhman Textiles Limited,Textiles & Apparels,1,0.0059
+INE774D07VO0,Mahindra & Mahindra Financial Services Ltd. **,CRISIL AAA,1,0.0058855624213
+INE16NZ01023,Orkla India Limited,Food Products,1,0.0058
+INE304W01038,Bluestone Jewellery and Lifestyle Limited,Consumer Durables,1,0.0058
+INE476A16H43,Canara Bank,CRISIL A1+,1,0.0057006887115
+INE777K01022,RR Kabel Ltd.,Industrial Products,1,0.0056758529037
+INE115A07QV7,LIC Housing Finance Ltd. **,CRISIL AAA,1,0.0056304006601
+INE0UH301010,Omnitech Engineering Limited,Industrial Manufacturing,1,0.0056
+INE203A01020,AstraZeneca Pharma India Limited,Pharmaceuticals & Biotechnology,1,0.0056
+INE230A01023,EIH Limited,Leisure Services,1,0.0056
+INE348L01012,Mas Financial Services Limited,Finance,1,0.0056
+INE967H01025,Krishna Institute Of Medical Sciences Limited,Healthcare Services,1,0.0056
+INE915D08DC0,Citicorp Finance (India) Ltd. **,ICRA AAA,1,0.0055525135363
+INE020B08DT7,Rural Electrification Corporation Ltd. **,CRISIL AAA,1,0.0055510516581
+INE153A08089,Mahanagar Telephone Nigam Ltd. ** #,BWR AA+(CE),1,0.0054102296633
+INE0CCU25019,MINDSPACE BUSINESS PARKS REIT,Units of Real Estate Investment Trust (REITs),1,0.0052295721311
+INE507T07153,Summit Digitel Infrastructure Private Ltd. **,CRISIL AAA,1,0.0051778988032
+INE483Z08012,Kohima-Mariani Transmission Ltd. **,FITCH AAA,1,0.0051463000008
+INE887G01027,Gokaldas Exports Limited,Textiles & Apparels,1,0.0051
+INE016A08021,Dabur India Ltd. **,ICRA AAA,1,0.0050560104902
+INE00WC01027,Affle 3i Limited,IT - Services,1,0.005
+INE686Y01026,Fine Organic Industries Limited,Chemicals & Petrochemicals,1,0.005
+INE0NT901020,Netweb Technologies India,It - Services,1,0.0049422652563
+INE065X01017,Indegene Limited,Healthcare Services,1,0.0049
+INE199A01012,Procter & Gamble Health Limited,Pharmaceuticals & Biotechnology,1,0.0049
+INE040A16IT9,HDFC Bank Ltd. **,CRISIL A1+,1,0.0048809657226
+INE476A16H84,Canara Bank **,CRISIL A1+,1,0.0048801977312
+INE134E08OC3,Power Finance Corporation Ltd. **,CRISIL AAA,1,0.0048416196389
+INE976I07DC3,Tata Capital Ltd.,ICRA AAA,1,0.0047310524617
+INE0LP301011,PhysicsWallah Limited,Other Consumer Services,1,0.0047
+INE348B01021,Century Plyboards (India) Limited,Consumer Durables,1,0.0047
+INE138Y01010,KFin Technologies Limited,Capital Markets,1,0.0046
+INE235A01022,Finolex Cables Limited,Industrial Products,1,0.0046
+INE556F08KP4,Small Industries Development Bank Of India.,CRISIL AAA,1,0.0045509517509
+INE211B01039,The Phoenix Mills Ltd.,Realty,1,0.004539048618
+INE179A01014,Procter & Gamble Hygiene and Health Care Ltd.,Personal Products,1,0.0044176047151
+INE600K01018,Galaxy Surfactants Limited,Chemicals & Petrochemicals,1,0.0043
+INE403D08207,Bharti Telecom Ltd. **,CRISIL AAA,1,0.0042561184491
+INE033L07IE2,Tata Capital Housing Finance Ltd. **,CRISIL AAA,1,0.0042204089431
+INE296A07TG0,Bajaj Finance Ltd. **,CRISIL AAA,1,0.0042087206535
+INE933K01021,Bajaj Consumer Care Limited,Personal Products,1,0.0042
+INE134E08NL6,Power Finance Corporation Ltd. **,CRISIL AAA,1,0.004199609177
+INE213W07319,SMFG India Home Finance Company Ltd **,CARE AAA,1,0.0041689467851
+INE142Z01019,Orient Electric Limited,Consumer Durables,1,0.0041
+INE953O01021,Sansera Engineering Limited,Auto Components,1,0.0041
+INE976G01028,RBL Bank Limited,Banks,1,0.0041
+INE136B01020,Cyient Limited,IT - Services,1,0.004
+INE202Z01029,TSF Investments  Limited,Finance,1,0.004
+INE236E01022,Ellenbarrie Industrial Gases Limited,Chemicals & Petrochemicals,1,0.004
+INE414G07JX2,Muthoot Finance Ltd. **,CRISIL AA+,1,0.0039492808554
+INE288B01029,Deepak Nitrite Limited,Chemicals & Petrochemicals,1,0.0039
+INE659A01023,Sudarshan Chemical Industries Limited,Chemicals & Petrochemicals,1,0.0039
+INE491A01021,City Union Bank Limited,Banks,1,0.0038
+INE594H01019,Thyrocare Technologies Limited,Healthcare Services,1,0.0038
+INE318A01026,Pidilite Industries Ltd.,Chemicals & Petrochemicals,1,0.003670642511
+INE769A01020,Aarti Industries Limited,Chemicals & Petrochemicals,1,0.0036
+INE010J01012,Tejas Networks Limited,Telecom - Equipment & Accessories,1,0.0034
+INE01QM01018,eMudhra Limited,IT - Services,1,0.0034
+INE342G01023,NIIT Learning Systems Limited,Other Consumer Services,1,0.0034
+INE033L07IK9,Tata Capital Housing Finance Ltd. **,CRISIL AAA,1,0.0033625996457
+INE127K08025,Nomura Fixed Income Securities Pvt. Ltd. **,FITCH AAA,1,0.0033583285359
+INE071G07777,ICICI Home Finance Company Ltd. **,ICRA AAA,1,0.0033384449701
+INE071G07843,ICICI Home Finance Company Ltd. **,CRISIL AAA,1,0.0033314353647
+INE020B08FW6,Rural Electrification Corporation Ltd.,ICRA AAA,1,0.00332446618
+INE261F08ET6,NABARD **,CRISIL AAA,1,0.0033217512631
+INE775A08105,Samvardhana Motherson International Ltd. **,Auto Components,1,0.0033139555624
+INE134E08NS1,Power Finance Corporation Ltd. **,CRISIL AAA,1,0.0033115113783
+INE261F16AP5,NABARD,CRISIL A1+,1,0.0032469394732
+INE15B701018,Pine Labs Limited,Financial Technology (Fintech),1,0.0032
+INE570A01022,ION Exchange (India) Limited,Other Utilities,1,0.0032
+INE643A01035,Jtekt India Limited,Auto Components,1,0.0032
+INE692A16LN4,Union Bank Of India,ICRA A1+,1,0.0031949754734
+INE103V01028,Travel Food Services Ltd,Leisure Services,1,0.0031642642601
+INE07Z507037,Oriental InfraTrust **,CRISIL AAA,1,0.0031288810118
+INE05C901015,Juniper Green Energy Limited,Power,1,0.0031
+INE227W01023,Clean Science and Technology Limited,Chemicals & Petrochemicals,1,0.0031
+INE552Z01027,Allied Blenders And Distillers Limited,Beverages,1,0.0031
+INE690A01028,TTK Prestige Limited,Consumer Durables,1,0.0031
+INE718I01012,JSW Cement Limited,Cement & Cement Products,1,0.0031
+INE752H01013,CARE Ratings Limited,Capital Markets,1,0.0031
+INE1JAR07010,Knowledge Realty Trust Ltd **,CRISIL AAA,1,0.0030025834852
+INE302A01020,Exide Industries Limited,Auto Components,1,0.003
+INE707A01012,Vindhya Telelinks Limited,Construction,1,0.003
+INE850D01014,Godrej Agrovet Limited,Food Products,1,0.003
+INE0IX101010,Data Patterns (India) Limited,Aerospace & Defense,1,0.0029
+INE217B01036,Kajaria Ceramics Limited,Consumer Durables,1,0.0029
+INE340A01012,Birla Corporation Limited,Cement & Cement Products,1,0.0029
+INE055A01016,Aditya Birla Real Estate Limited,Realty,1,0.0028
+INE324A01032,Jindal Saw Limited,Industrial Products,1,0.0028
+INE955D01029,Genus Power Infrastructures Limited,Electrical Equipment,1,0.0028
+INE189B01011,Styrenix Performance Materials Limited,Chemicals & Petrochemicals,1,0.0027
+INE462A01022,Bayer Cropscience Limited,Fertilizers & Agrochemicals,1,0.0027
+INE894V01022,Belrise Industries Ltd.,Auto Components,1,0.0027
+INE033L07IR4,Tata Capital Housing Finance Ltd. **,CRISIL AAA,1,0.0026752877987
+INE205A08095,Vedanta Ltd. **,CRISIL AA+,1,0.0026664086495
+INE0BS701011,Premier Energies Limited,Electrical Equipment,1,0.0026
+INE668F01031,Jyothy Labs Limited,Household Products,1,0.0026
+INE764D01017,V.S.T Tillers Tractors Limited,"Agricultural, Commercial & Construction Vehicles",1,0.0026
+INE976A01021,West Coast Paper Mills Limited,"Paper, Forest & Jute Products",1,0.0026
+INE528G08345,Yes Bank Ltd. **,ICRA AA,1,0.0025856690343
+INE115A07NU6,LIC Housing Finance Ltd. **,CRISIL AAA,1,0.0025769310105
+INE115A07QH6,LIC Housing Finance Ltd. **,CRISIL AAA,1,0.002541340674
+INE020B08EW9,Rural Electrification Corporation Ltd. **,CRISIL AAA,1,0.0025313028922
+INE041007175,EMBASSY OFFICE PARKS REIT **,CRISIL AAA,1,0.0025043457218
+INE0AQ201015,Leela Palaces Hotels & Resorts Limited,Leisure Services,1,0.0025
+INE970X01018,Lemon Tree Hotels Limited,Leisure Services,1,0.0025
+INE0CCU07199,MINDSPACE BUSINESS PARKS REIT **,ICRA AAA,1,0.0024954734005
+INE0NDH07068,Nexus Select Trust **,CRISIL AAA,1,0.0024676236086
+INE732I01021,Angel One Ltd.,Capital Markets,1,0.0023416292138
+INE414G01012,Muthoot Finance Ltd.,Finance,1,0.0023011645775
+INE0JUS01029,Harsha Engineers International Limited,Industrial Products,1,0.0023
+INE14LE01019,Aditya Birla Lifestyle Brands Limited,Retailing,1,0.0023
+INE172A01027,Castrol India Limited,Petroleum Products,1,0.0023
+INE258G01013,Sumitomo Chemical India Limited,Fertilizers & Agrochemicals,1,0.0022
+INE634A01018,Honda India Power Products Limited,Industrial Manufacturing,1,0.0022
+INE591G01025,COFORGE Ltd.,It - Software,1,0.0021748329488
+INE074A01025,Praj Industries Limited,Industrial Manufacturing,1,0.0021
+INE342J01019,ZF Commercial Vehicle Control Systems India Limited,Auto Components,1,0.0021
+INE195A01028,Supreme Industries Ltd.,Industrial Products,1,0.0020084381784
+INE278H01035,Sandhar Technologies Limited,Auto Components,1,0.002
+INE414G07IR6,Muthoot Finance Ltd. **,CRISIL AA+,1,0.0019919688677
+INE651J07960,JM Financial Credit Solution Ltd. **,ICRA AA,1,0.0019911425987
+INE12UR01024,Fujiyama Power Systems Limited,Electrical Equipment,1,0.0019
+INE559R01029,Landmark Cars Limited,Automobiles,1,0.0019
+INE791I01019,Brigade Enterprises Limited,Realty,1,0.0019
+INE0BWS23018,Altius Telecom Infrastructure Trust,Units of Infrastructure Investment Trusts,1,0.0018567843563
+INE115A07QN4,LIC Housing Finance Ltd. **,CRISIL AAA,1,0.0018300189919
+INE09VQ01012,Indigo Paints Limited,Consumer Durables,1,0.0018
+INE321T01012,Doms Industries Limited,Household Products,1,0.0018
+INE337A01034,LG Balakrishnan & Bros Limited,Auto Components,1,0.0018
+INE497B01018,Seamec Limited,Transport Services,1,0.0018
+INE258B01022,FDC Limited,Pharmaceuticals & Biotechnology,1,0.0017
+INE285A01027,Elgi Equipments Limited,Industrial Products,1,0.0017
+INE753U01022,Divgi Torqtransfer Systems Limited,Auto Components,1,0.0017
+INE020B08AH8,Rural Electrification Corporation Ltd. **,CRISIL AAA,1,0.0016894058369
+INE831R07425,Aditya Birla Housing Finance Ltd. **,ICRA AAA,1,0.0016887321603
+INE033L07ID4,Tata Capital Housing Finance Ltd. **,CRISIL AAA,1,0.0016886816345
+INE774D07UM6,Mahindra & Mahindra Financial Services Ltd. **,FITCH AAA,1,0.0016849966233
+INE667F07JA5,Sundaram Home Finance Ltd. **,ICRA AAA,1,0.0016794118441
+INE041007167,EMBASSY OFFICE PARKS REIT **,CRISIL AAA,1,0.0016707887832
+INE296A07TT3,Bajaj Finance Ltd. **,CRISIL AAA,1,0.0016682793377
+INE115A07QI4,LIC Housing Finance Ltd. **,CRISIL AAA,1,0.0016678380795
+INE261F08ER0,NABARD **,CRISIL AAA,1,0.0016678077641
+INE403D08231,Bharti Telecom Ltd. **,CRISIL AAA,1,0.0016658021488
+INE115A07QL8,LIC Housing Finance Ltd. **,CRISIL AAA,1,0.0016619905664
+INE414G07JB8,Muthoot Finance Ltd. **,CRISIL AA+,1,0.0016615779644
+INE423A07476,Adani Enterprises Ltd. **,ICRA AA-,1,0.0016600660114
+INE103D08054,Bharat Sanchar Nigam Ltd. **,CRISIL AAA(CE),1,0.0016562912621
+INE261F08EP4,NABARD **,ICRA AAA,1,0.0016515654205
+INE233A08204,Godrej Industries Ltd. **,CRISIL AA+,1,0.0016091834887
+INE233A08212,Godrej Industries Ltd. **,CRISIL AA+,1,0.0016090442299
+INE03EI01018,Max Estates Limited,Realty,1,0.0016
+INE218I01013,Canara Robeco Asset Management Company Ltd,Capital Markets,1,0.0016
+INE477A01020,Can Fin Homes Limited,Finance,1,0.0016
+INE02IJ01035,Azad Engineering Ltd,Electrical Equipment,1,0.0015488923744
+INE213W07392,SMFG India Home Finance Company Ltd. **,CARE AAA,1,0.0015098070152
+INE599M01018,Just Dial Limited,Retailing,1,0.0015
+INE0UOS01011,Sanofi Consumer Healthcare India Limited,Pharmaceuticals & Biotechnology,1,0.0014
+INE161A01038,NIIT Limited,Other Consumer Services,1,0.0014
+INE386A01023,Vesuvius India Limited,Industrial Products,1,0.0014
+INE100A01010,Atul Ltd.,Chemicals & Petrochemicals,1,0.0013802976811
+INE755L07015,Bamboo Hotels & Global Centre (Delhi) Pvt Ltd. **,ICRA A+(CE),1,0.0013313926337
+INE093I07082,Oberoi Realty Ltd. **,CARE AA+,1,0.0013223089794
+INE522D07CL9,Manappuram Finance Ltd. **,CRISIL AA,1,0.0013209866836
+INE055S01018,Cyient Dlm Ltd,Aerospace & Defense,1,0.0013
+INE152M01016,Triveni Turbine Limited,Electrical Equipment,1,0.0013
+INE544R01021,Greenlam Industries Limited,Consumer Durables,1,0.0013
+INE926X01010,H.G. Infra Engineering Limited,Construction,1,0.0013
+INE961O01016,Rainbow Childrens Medicare Limited,Healthcare Services,1,0.0013
+INE028A16LD2,Bank Of Baroda **,FITCH A1+,1,0.0012914823802
+INE556F16BX0,Small Industries Development Bank Of India. **,CRISIL A1+,1,0.0012897038461
+INE562A16QI8,Indian Bank,CRISIL A1+,1,0.0012888537041
+INE0JA001018,Venus Pipes And Tubes Limited,Industrial Products,1,0.0012
+INE0N2P01017,Rishabh Instruments Ltd,Electrical Equipment,1,0.0012
+INE774D07VM4,Mahindra & Mahindra Financial Services Ltd. **,CRISIL AAA,1,0.0011821374382
+INE729N08063,TVS Credit Services Ltd. **,CRISIL AA+,1,0.0011328519876
+INE066P01011,Inox Wind Limited,Electrical Equipment,1,0.0011
+INE13B501022,Saatvik Green Energy Limited,Electrical Equipment,1,0.0011
+INE269A01021,Sonata Software Limited,IT - Software,1,0.0011
+INE041007142,EMBASSY OFFICE PARKS REIT **,CRISIL AAA,1,0.0010133039691
+INE041007084,EMBASSY OFFICE PARKS REIT **,CRISIL AAA,1,0.0010107035773
+INE134E08LX5,Power Finance Corporation Ltd. **,CRISIL AAA,1,0.0010106058942
+INE034A01011,Arvind Limited,Textiles & Apparels,1,0.001
+INE836A01035,Birlasoft Limited,IT - Software,1,0.001
+INE922K01024,India Shelter Finance Corporation Limited,Finance,1,0.001
+INE01EQ07103,Tyger Capital Private Ltd. **,CRISIL A+,1,0.0009926117177
+INE01EQ07095,Tyger Capital Private Ltd. **,CRISIL A+,1,0.0009922854541
+INE216P07266,Aavas Financiers Ltd. **,CARE AA,1,0.000990806658
+INE814H07208,Adani Power Ltd. **,CRISIL AA,1,0.0009885718854
+INE045J01034,Fineotex Chemical Limited,Chemicals & Petrochemicals,1,0.0009
+INE0CAZ01013,Urban Company Ltd.,Retailing,1,0.0009
+INE301A01014,Raymond Limited,Industrial Manufacturing,1,0.0009
+INE633B01018,Polyplex Corporation Limited,Industrial Products,1,0.0009
+INE377Y07433,Bajaj Housing Finance Ltd. **,CRISIL AAA,1,0.0008420957899
+INE134E08JC3,Power Finance Corporation Ltd. **,CRISIL AAA,1,0.0008416814787
+INE115A07MC6,LIC Housing Finance Ltd. **,CRISIL AAA,1,0.0008415804272
+INE020B08FR6,Rural Electrification Corporation Ltd. **,CRISIL AAA,1,0.0008411930632
+INE020B08GB8,Rural Electrification Corporation Ltd. **,CRISIL AAA,1,0.0008355948104
+INE033L07IN3,Tata Capital Housing Finance Ltd. **,CRISIL AAA,1,0.0008349783962
+INE282H07018,Jio Credit Ltd,CRISIL AAA,1,0.0008323712677
+INE261F08CM5,NABARD **,ICRA AAA,1,0.0008276050055
+INE128X01021,Archean Chemical Industries Limited,Chemicals & Petrochemicals,1,0.0008
+INE287B01021,Subros Ltd,Industrial Products,1,0.0008
+INE410B01037,Vinati Organics Limited,Chemicals & Petrochemicals,1,0.0008
+INE473B01035,Hatsun Agro Product Limited,Food Products,1,0.0008
+INE825V01034,Vedant Fashions Limited,Retailing,1,0.0008
+INE873D01024,Indoco Remedies Limited,Pharmaceuticals & Biotechnology,1,0.0008
+INE884B01025,Kirloskar Ferrous Industries Limited,Ferrous Metals,1,0.0008
+INE274J01014,Oil India Ltd.,Oil,1,0.0007878343287
+INE1JAR07028,Knowledge Realty Trust Ltd **,CRISIL AAA,1,0.0007399158867
+INE0NHL23019,Indus Infra Trust,Units of Infrastructure Investment Trusts,1,0.0007080542099
+INE0BJS01011,Go Fashion (India) Limited,Retailing,1,0.0007
+INE0JPD01013,Sanathan Textiles Limited,Textiles & Apparels,1,0.0007
+INE17IR01028,Laser Power And Infra Limited,Industrial Products,1,0.0007
+INE389H01022,KEC International Limited,Construction,1,0.0007
+INE637C01025,Pokarna Limited,Consumer Durables,1,0.0007
+INE484J08089,Godrej Properties Ltd. **,ICRA AA+,1,0.0006655006913
+INE414G07IQ8,Muthoot Finance Ltd. **,CRISIL AA+,1,0.0006644715023
+INE087M08126,Bahadur Chand Investments Pvt. Ltd. **,ICRA AA+,1,0.0006629913799
+INE087M08134,Bahadur Chand Investments Pvt. Ltd. **,ICRA AA+,1,0.0006607393657
+INE556F16BV4,Small Industries Development Bank Of India. **,CRISIL A1+,1,0.0006466357623
+INE004A01022,Protean eGov Technologies Limited,IT - Services,1,0.0006
+INE0QJW01029,Lohia Corp Limited,Industrial Manufacturing,1,0.0006
+INE813H07432,Torrent Power Ltd. **,CRISIL AA+,1,0.0005976338968
+INE776C01039,Gmr Airports Ltd.,Transport Infrastructure,1,0.000583683036
+INE139A01034,National Aluminium Company Ltd.,Non - Ferrous Metals,1,0.0005351057457
+INE02ID01020,Raymond Lifestyle Limited,Textiles & Apparels,1,0.0005
+INE16W401027,Augmont Enterprises Limited,Non - Ferrous Metals,1,0.0005
+INE01A001028,Stanley Lifestyles Limited,Consumer Durables,1,0.0004
+INE1KZI01025,Tempsens Instruments (India) Limited,Industrial Manufacturing,1,0.0004
+INE563J01010,Astec LifeSciences Limited,Fertilizers & Agrochemicals,1,0.0004
+INE018A08BE9,Larsen & Toubro Ltd. **,CRISIL AAA,1,0.0003380913544
+INE040A08823,HDFC Bank Ltd. **,CRISIL AAA,1,0.0003377376742
+INE071G07728,ICICI Home Finance Company Ltd. **,ICRA AAA,1,0.0003374614668
+INE377Y07490,Bajaj Housing Finance Ltd. **,CRISIL AAA,1,0.0003368888417
+INE729N08055,TVS Credit Services Ltd. **,CRISIL AA+,1,0.0003331575119
+INE814H07190,Adani Power Ltd. **,CRISIL AA,1,0.0003296760413
+INE00Q601028,Studds Accessories Ltd,Auto Components,1,0.0003
+INE975F07IM9,Kotak Mahindra Investments Ltd. **,CRISIL AAA,1,0.0002022545668
+INE0ISX01025,Kusumgar Limited,Textiles & Apparels,1,0.0002
+INE634S07025,Mankind Pharma Ltd,CRISIL AA+,1,0.0001991374696
+INE115A07QR5,LIC Housing Finance Ltd. **,CRISIL AAA,1,0.000166239814
+INE115A07RB7,LIC Housing Finance Ltd. **,CRISIL AAA,1,0.0001649901439
+INE813H07374,Torrent Power Ltd. **,CRISIL AA+,1,0.0001331884681
+INE860H07IQ0,Aditya Birla Capital Ltd. **,ICRA AAA,1,0.0001071415315
+INE256D01014,Genus Prime Infra Limited,Chemicals & Petrochemicals,1,0.0001
+INE514E08FG5,Export-Import Bank Of India **,CRISIL AAA,1,8.75779621e-05
+INE115A07RH4,LIC Housing Finance Ltd. **,CRISIL AAA,1,8.35561126e-05
+INE053F08338,Indian Railway Finance Corporation Ltd. **,CRISIL AAA,1,5.73905122e-05
+INE002S01010,Mahanagar Gas Limited,Gas,1,0.0
+INE007N14FO3,Fedbank Financial Services Ltd. (17/11/2026) **,CRISIL A1+,1,0.0
+INE008A161B2,IDBI Bank Ltd.,CRISIL A1+,1,0.0
+INE00R701025,,Cement and Cement Products,1,0.0
+INE010A01011,Prism Johnson Ltd.,Cement & Cement Products,1,0.0
+INE012A01025,ACC Ltd.,Cement & Cement Products,1,0.0
+INE012I14SW9,JM Financial Services Ltd. (05/11/2026) **,CRISIL A1+,1,0.0
+INE016A01026,Dabur India Ltd.,Personal Products,1,0.0
+INE01C314FZ1,Bajaj Financial Securities Ltd.,CRISIL A1+,1,0.0
+INE01C314GB0,Bajaj Financial Securities Ltd.,CRISIL A1+,1,0.0
+INE01C314GG9,Bajaj Financial Securities Ltd. (25/09/2026) **,CRISIL A1+,1,0.0
+INE01C314GL9,Bajaj Financial Securities Ltd. (12/11/2026) **,CRISIL A1+,1,0.0
+INE01GA16293,DBS Bank Ltd. (07/09/2026) **#,CRISIL A1+,1,0.0
+INE01GA16301,DBS Bank Ltd.,CRISIL A1+,1,0.0
+INE028A16KC6,Bank of Baroda (16/09/2026),IND A1+,1,0.0
+INE028A16KW4,Bank of Baroda (15/12/2026),IND A1+,1,0.0
+INE028A16LF7,Bank of Baroda (04/02/2027) #,CARE A1+,1,0.0
+INE028A16LH3,Bank of Baroda (05/02/2027),CARE A1+,1,0.0
+INE028A16MM1,Bank of Baroda,IND A1+,1,0.0
+INE028A16MQ2,Bank of Baroda (07/12/2026) #,IND A1+,1,0.0
+INE028A16MS8,Bank of Baroda,IND A1+,1,0.0
+INE028E14WU0,Kotak Securities Ltd.,CRISIL A1+,1,0.0
+INE028E14WZ9,Kotak Securities Ltd. (10/09/2026) **,ICRA A1+,1,0.0
+INE028E14XA0,Kotak Securities Ltd.,CRISIL A1+,1,0.0
+INE028E14XB8,Kotak Securities Ltd.,CRISIL A1+,1,0.0
+INE028E14XC6,Kotak Securities Ltd.,CRISIL A1+,1,0.0
+INE028E14XE2,Kotak Securities Ltd.,CRISIL A1+,1,0.0
+INE028E14XM5,Kotak Securities Ltd.,CRISIL A1+,1,0.0
+INE029A14BV8,Bharat Petroleum Corporation Limited (24/09/2026),CRISIL A1+,1,0.0
+INE02FN14929,IGH Holdings Pvt Ltd.,CRISIL A1+,1,0.0
+INE02FN14937,IGH Holdings Pvt Ltd.,CRISIL A1+,1,0.0
+INE02FN14945,IGH Holdings Pvt Ltd.,CRISIL A1+,1,0.0
+INE02KN14713,Godrej Finance Ltd. (09/09/2026) **,ICRA A1+,1,0.0
+INE02KN14739,Godrej Finance Ltd.,CRISIL A1+,1,0.0
+INE02KN14770,Godrej Finance Ltd.,CRISIL A1+,1,0.0
+INE033L07IC6,Tata Capital Housing Finance Ltd.,CRISIL AAA,1,0.0
+INE033L14PA1,Tata Capital Housing Finance Ltd. (03/09/2026) **,ICRA A1+,1,0.0
+INE036D16JD3,Karur Vysya Bank Ltd. (18/09/2026) **#,ICRA A1+,1,0.0
+INE036D16KD1,Karur Vysya Bank Ltd. (15/09/2026) **#,ICRA A1+,1,0.0
+INE036D16KL4,Karur Vysya Bank Ltd.,CRISIL A1+,1,0.0
+INE036D16KO8,Karur Vysya Bank Ltd. (17/11/2026) **#,CRISIL A1+,1,0.0
+INE037E14AT9,Tata Teleservices Ltd. (17/11/2026) **,CRISIL A1+,1,0.0
+INE040A16HN4,HDFC Bank Ltd. (11/09/2026) **#,ICRA A1+,1,0.0
+INE040A16HU9,HDFC Bank Ltd. (06/11/2026) **#,ICRA A1+,1,0.0
+INE040A16HW5,HDFC Bank Limited (13/11/2026) #,CARE A1+,1,0.0
+INE040A16HY1,HDFC Bank Ltd. (19/11/2026) **#,ICRA A1+,1,0.0
+INE040A16IK8,HDFC Bank Limited (22/01/2027),CARE A1+,1,0.0
+INE040A16JP5,HDFC Bank Ltd. (09/09/2026) **#,CARE A1+,1,0.0
+INE040A16JS9,HDFC Bank Ltd. (01/10/2026) #,ICRA A1+,1,0.0
+INE040A16JT7,HDFC Bank Ltd.,CRISIL A1+,1,0.0
+INE040A16JY7,HDFC Bank Ltd.,CRISIL A1+,1,0.0
+INE040A16KA5,HDFC Bank Ltd.,CRISIL A1+,1,0.0
+INE041014114,Embassy Office Parks Reit,CRISIL A1+,1,0.0
+INE071G14IF5,ICICI Home Finance Co. Ltd.,[ICRA]A1+,1,0.0
+INE081A14HC6,Tata Steel Ltd.,[ICRA]A1+,1,0.0
+INE081A14HL7,Tata Steel Ltd.,[ICRA]A1+,1,0.0
+INE084101034,,Industrial Manufacturing,1,0.0
+INE084A01016,Bank of India,Banks,1,0.0
+INE090AD6279,ICICI Bank Limited (27/01/2027) #,ICRA A1+,1,0.0
+INE092T01019,IDFC First Bank Limited,Banks,1,0.0
+INE092T16ZP2,IDFC First Bank Ltd.,CRISIL A1+,1,0.0
+INE092T16ZQ0,IDFC First Bank Ltd.,CRISIL A1+,1,0.0
+INE093I01010,,Realty,1,0.0
+INE094A14KC3,Hindustan Petroleum Corporation Limited (15/09/2026),CRISIL A1+,1,0.0
+INE094A14KG4,Hindustan Petroleum Corporation Ltd. (25/09/2026) **,CRISIL A1+,1,0.0
+INE095A167E7,IndusInd Bank Ltd. (01/09/2026) **#,CRISIL A1+,1,0.0
+INE09OL14JM7,Birla Group Holding Pvt. Ltd.,CRISIL A1+,1,0.0
+INE09OL14JO3,Birla Group Holding Pvt. Ltd.,CRISIL A1+,1,0.0
+INE09OL14JP0,Birla Group Holding Pvt. Ltd.,CRISIL A1+,1,0.0
+INE0DZE14404,Kisetsu Saison Finance (India) Pvt Ltd. (09/09/2026) **,CRISIL A1+,1,0.0
+INE0JRU14487,Mirae Asset Financial Service (04/09/2026) **,CRISIL A1+,1,0.0
+INE0JRU14503,Mirae Asset Financial Service (23/09/2026) **,CRISIL A1+,1,0.0
+INE0JRU14545,Mirae Asset Financial Service (03/12/2026) **,CRISIL A1+,1,0.0
+INE0NNS01018,NMDC Steel Ltd.,Ferrous Metals,1,0.0
+INE0T2V14111,Mirae Asset Capital Markets (I) Pvt. Ltd. (04/09/2026) **,ICRA A1+,1,0.0
+INE110O14IQ2,Axis Securities Ltd.,CRISIL A1+,1,0.0
+INE110O14JJ5,Axis Securities Ltd.,CRISIL A1+,1,0.0
+INE118A01012,Bajaj Holdings & Investment Limited,Finance,1,0.0
+INE121A14YU7,Cholamandalam Investment & Finance Co. Ltd. (18/09/2026) **,ICRA A1+,1,0.0
+INE121A14YW3,Cholamandalam Investment & Finance Co. Ltd.,CRISIL A1+,1,0.0
+INE121E14466,JSW Energy Ltd. (17/11/2026) **,IND A1+,1,0.0
+INE128M14BI0,L&T Metro Rail (Hyderabad) Ltd.,CRISIL A1+,1,0.0
+INE128M14BK6,L&T Metro Rail (Hyderabad) Ltd.,CRISIL A1+,1,0.0
+INE131C01011,Disa India Ltd.,Industrial Manufacturing,1,0.0
+INE134E08MK0,7.70% Power Finance Corporation Ltd. (15/09/2026) **,ICRA AAA,1,0.0
+INE136S01016,Neogen Chemicals Ltd.,Chemicals & Petrochemicals,1,0.0
+INE142Q01026,Sula Vineyards Ltd.,Beverages,1,0.0
+INE151A14313,Tata Communications Ltd. (28/09/2026) **,CRISIL A1+,1,0.0
+INE151A14339,Tata Communications Ltd. (17/11/2026) **,CRISIL A1+,1,0.0
+INE159A01016,,Pharmaceuticals and Biotechnology,1,0.0
+INE160A01022,Punjab National Bank,Banks,1,0.0
+INE160A16UE2,Punjab National Bank (05/02/2027) #,CRISIL A1+,1,0.0
+INE160A16VE0,Punjab National Bank,CRISIL A1+,1,0.0
+INE160A16VJ9,Punjab National Bank,CRISIL A1+,1,0.0
+INE160A16VS0,Punjab National Bank,CRISIL A1+,1,0.0
+INE163N14600,ONGC Petro Additions Ltd. (25/09/2026) **,ICRA A1+,1,0.0
+INE168A16NG5,The Jammu & Kashmir Bank Ltd.,CRISIL A1+,1,0.0
+INE168A16NK7,The Jammu & Kashmir Bank Ltd. (03/09/2026) **#,CRISIL A1+,1,0.0
+INE168A16NL5,The Jammu & Kashmir Bank Ltd. (08/09/2026) **#,CRISIL A1+,1,0.0
+INE168A16NQ4,The Jammu & Kashmir Bank Ltd.,CRISIL A1+,1,0.0
+INE171A16OA0,The Federal Bank Ltd. (15/10/2026) **#,CRISIL A1+,1,0.0
+INE177A01018,Ingersoll Rand (India) Ltd.,Industrial Products,1,0.0
+INE1JAR14024,Knowledge Realty Trust (06/11/2026) **,CRISIL A1+,1,0.0
+INE1JAR25012,Knowledge Realty Trust,Realty,1,0.0
+INE211H14AT3,Sharekhan Ltd. (03/09/2026) **,ICRA A1+,1,0.0
+INE211H14AV9,Sharekhan Ltd. (15/09/2026) **,ICRA A1+,1,0.0
+INE211H14BB9,Sharekhan Ltd. (27/11/2026) **,CRISIL A1+,1,0.0
+INE212K14EI0,SBICAP Securities Ltd. (15/09/2026) **,ICRA A1+,1,0.0
+INE212K14EJ8,SBICAP Securities Ltd. (11/09/2026) **,ICRA A1+,1,0.0
+INE212K14EV3,SBICAP Securities Ltd. (27/11/2026) **,CRISIL A1+,1,0.0
+INE233A148Y8,Godrej Industries Ltd. (15/09/2026) **,ICRA A1+,1,0.0
+INE233A148Z5,Godrej Industries Ltd. (16/09/2026) **,ICRA A1+,1,0.0
+INE233A149A6,Godrej Industries Ltd. (17/09/2026) **,ICRA A1+,1,0.0
+INE233A149B4,Godrej Industries Ltd. (18/09/2026) **,ICRA A1+,1,0.0
+INE237AD6109,Kotak Mahindra Bank Limited (18/12/2026),CRISIL A1+,1,0.0
+INE237AD6117,Kotak Mahindra Bank Limited (08/01/2027) #,CRISIL A1+,1,0.0
+INE238AD6BO6,Axis Bank Ltd. (26/11/2026) **#,ICRA A1+,1,0.0
+INE238AD6BQ1,Axis Bank Ltd. (11/09/2026) **#,ICRA A1+,1,0.0
+INE238AD6CL0,Axis Bank Limited (01/09/2026) #,CRISIL A1+,1,0.0
+INE242A01010,Indian Oil Corporation Ltd.,Petroleum Products,1,0.0
+INE257A14AI4,Bharat Heavy Electricals Ltd. (29/09/2026) **,ICRA A1+,1,0.0
+INE257A14AJ2,Bharat Heavy Electricals Ltd.,CRISIL A1+,1,0.0
+INE261F08DH3,NABARD **,CRISIL AAA,1,0.0
+INE261F08EB4,National Bank for Agriculture and Rural Development,CRISIL AAA,1,0.0
+INE261F14PS2,National Bank for Agriculture and Rural Development (10/09/2026) **,ICRA A1+,1,0.0
+INE261F14PY0,National Bank for Agriculture and Rural Development,CRISIL A1+,1,0.0
+INE261F14QA8,National Bank for Agriculture and Rural Development,CRISIL A1+,1,0.0
+INE261F16AB5,National Bank For Agriculture and Rural Development (18/09/2026),CRISIL A1+,1,0.0
+INE261F16AD1,National Bank For Agriculture and Rural Development (14/01/2027) #,CRISIL A1+,1,0.0
+INE261F16AE9,National Bank For Agriculture and Rural Development (19/01/2027),ICRA A1+,1,0.0
+INE261F16AF6,National Bank For Agriculture and Rural Development (22/01/2027),ICRA A1+,1,0.0
+INE261F16AH2,National Bank For Agriculture and Rural Development (28/01/2027),CRISIL A1+,1,0.0
+INE274C01019,WENDT (India) Ltd.,Industrial Products,1,0.0
+INE277A01016,Swaraj Engines Limited,Industrial Products,1,0.0
+INE280A14609,Titan Company Ltd.,[ICRA]A1+,1,0.0
+INE288A01013,Maharashtra Scooters Limited,Finance,1,0.0
+INE289B14KC7,GIC Housing Finance Ltd. (10/09/2026) **,ICRA A1+,1,0.0
+INE289B14KH6,GIC Housing Finance Ltd. (27/11/2026) **,CRISIL A1+,1,0.0
+INE296A14I67,Bajaj Finance Limited (26/10/2026),ICRA A1+,1,0.0
+INE2KCE01013,Kwality Wall’s (India) Limited,Food Products,1,0.0
+INE317F01035,Nesco Limited,Commercial Services & Supplies,1,0.0
+INE338I01027,,Capital Markets,1,0.0
+INE338I14MU5,Motilal Oswal Financial Services Ltd. (04/09/2026) **,ICRA A1+,1,0.0
+INE338I14MV3,Motilal Oswal Financial Services Ltd. (07/09/2026) **,ICRA A1+,1,0.0
+INE338I14MW1,Motilal Oswal Financial Services Ltd.,CRISIL A1+,1,0.0
+INE338I14MY7,Motilal Oswal Financial Services Ltd.,CRISIL A1+,1,0.0
+INE338I14NA5,Motilal Oswal Financial Services Ltd.,CRISIL A1+,1,0.0
+INE338I14NC1,Motilal Oswal Financial Services Ltd.,CRISIL A1+,1,0.0
+INE365D01021,Ashiana Housing Ltd.,Realty,1,0.0
+INE371K14DW7,Tata Realty and Infrastructure Ltd. (30/11/2026) **,CRISIL A1+,1,0.0
+INE383A01012,,Cement and Cement Products,1,0.0
+INE403D14585,Bharti Telecom Ltd. (18/09/2026) **,ICRA A1+,1,0.0
+INE403D14627,Bharti Telecom Ltd. (03/09/2026) **,ICRA A1+,1,0.0
+INE403G14TU6,Standard Chartered Capital Ltd. (04/09/2026) **,ICRA A1+,1,0.0
+INE414G14UT3,Muthoot Finance Ltd. (08/09/2026) **,ICRA A1+,1,0.0
+INE414G14UZ0,Muthoot Finance Ltd. (23/11/2026) **,CRISIL A1+,1,0.0
+INE422H14388,DSP Finance Pvt. Ltd. (18/09/2026) **,ICRA A1+,1,0.0
+INE422H14479,DSP Finance Pvt. Ltd. (04/09/2026) **,ICRA A1+,1,0.0
+INE422H14487,DSP Finance Pvt. Ltd. (21/09/2026) **,ICRA A1+,1,0.0
+INE422H14529,DSP Finance Pvt. Ltd.,CRISIL A1+,1,0.0
+INE422H14537,DSP Finance Pvt. Ltd. (24/09/2026) **,ICRA A1+,1,0.0
+INE422H14594,DSP Finance Pvt. Ltd. (12/11/2026) **,CRISIL A1+,1,0.0
+INE422H14610,DSP Finance Pvt. Ltd. (17/11/2026) **,ICRA A1+,1,0.0
+INE424H01027,,Entertainment,1,0.0
+INE457A01014,,Banks,1,0.0
+INE476A01022,Canara Bank,Banks,1,0.0
+INE476A16E38,Canara Bank (11/11/2026),CRISIL A1+,1,0.0
+INE476A16F78,Canara Bank (18/12/2026),CRISIL A1+,1,0.0
+INE476A16I18,Canara Bank (15/09/2026) **#,ICRA A1+,1,0.0
+INE476A16K55,Canara Bank,CRISIL A1+,1,0.0
+INE483A16KT7,Central Bank of India (08/09/2026) **#,CRISIL A1+,1,0.0
+INE483A16KV3,Central Bank of India,CRISIL A1+,1,0.0
+INE483A16KX9,Central Bank of India (25/09/2026) **#,CRISIL A1+,1,0.0
+INE483A16KZ4,Central Bank of India,CRISIL A1+,1,0.0
+INE483A16LD9,Central Bank of India (27/11/2026) **#,CRISIL A1+,1,0.0
+INE484J14D32,Godrej Properties Ltd. (15/09/2026) **,ICRA A1+,1,0.0
+INE484J14D40,Godrej Properties Ltd.,[ICRA]A1+,1,0.0
+INE484J14D57,Godrej Properties Ltd.,[ICRA]A1+,1,0.0
+INE484J14D65,Godrej Properties Ltd.,[ICRA]A1+,1,0.0
+INE484J14E15,Godrej Properties Ltd. (24/09/2026) **,ICRA A1+,1,0.0
+INE484J14F30,Godrej Properties Ltd.,[ICRA]A1+,1,0.0
+INE484J14F48,Godrej Properties Ltd.,[ICRA]A1+,1,0.0
+INE484J14F55,Godrej Properties Ltd.,[ICRA]A1+,1,0.0
+INE484J14F63,Godrej Properties Ltd.,[ICRA]A1+,1,0.0
+INE486A14GC9,CESC Ltd. (17/09/2026) **,ICRA A1+,1,0.0
+INE486A14GD7,CESC Ltd.,[ICRA]A1+,1,0.0
+INE486A14GG0,CESC Ltd.,[ICRA]A1+,1,0.0
+INE491A16169,City Union Bank Ltd. (10/09/2026) **#,ICRA A1+,1,0.0
+INE491A16177,City Union Bank Ltd. (11/09/2026) **#,ICRA A1+,1,0.0
+INE494B04019,TVS Motor Company Ltd.,CARE A1+,1,0.0
+INE503A16HZ5,DCB Bank Ltd. (02/09/2026) **#,CRISIL A1+,1,0.0
+INE503A16IA6,DCB Bank Ltd. (15/09/2026) **#,CRISIL A1+,1,0.0
+INE503A16ID0,DCB Bank Ltd. (30/11/2026) **#,CRISIL A1+,1,0.0
+INE503A16IE8,DCB Bank Ltd. (02/12/2026) **#,CRISIL A1+,1,0.0
+INE511C14ZP2,Poonawalla Fincorp Ltd.,CRISIL A1+,1,0.0
+INE511C14ZT4,Poonawalla Fincorp Ltd.,CRISIL A1+,1,0.0
+INE514E14TM2,Export-Import Bank of India (07/09/2026) **,ICRA A1+,1,0.0
+INE514E14TN0,Export-Import Bank of India (09/09/2026),ICRA A1+,1,0.0
+INE514E14TQ3,Export Import Bank of India (14/12/2026),CRISIL A1+,1,0.0
+INE514E14TS9,Export-Import Bank of India (04/11/2026) **,CRISIL A1+,1,0.0
+INE517B14AL3,Tata Teleservices (Maharastra) Ltd. (09/11/2026) **,CRISIL A1+,1,0.0
+INE522D14OU1,Manappuram Finance Ltd. (15/09/2026) **,CRISIL A1+,1,0.0
+INE522D14PO1,Manappuram Finance Ltd. (08/09/2026) **,CRISIL A1+,1,0.0
+INE522D14PP8,Manappuram Finance Ltd. (09/09/2026) **,CRISIL A1+,1,0.0
+INE522D14PR4,Manappuram Finance Ltd. (18/09/2026) **,CRISIL A1+,1,0.0
+INE522D14PU8,Manappuram Finance Ltd.,CRISIL A1+,1,0.0
+INE522D14PV6,Manappuram Finance Ltd. (16/11/2026) **,CRISIL A1+,1,0.0
+INE522D14PW4,Manappuram Finance Ltd. (30/10/2026) **,CRISIL A1+,1,0.0
+INE523L14BM6,Nuvama Wealth & Investment Ltd. (04/09/2026) **,ICRA A1+,1,0.0
+INE523L14BN4,Nuvama Wealth & Investment Ltd. (09/09/2026) **,ICRA A1+,1,0.0
+INE523L14BR5,Nuvama Wealth & Investment Ltd. (18/09/2026) **,ICRA A1+,1,0.0
+INE523L14BZ8,Nuvama Wealth & Investment Ltd. (03/12/2026) **,CRISIL A1+,1,0.0
+INE528G08394,9% Yes Bank Limited**#,ICRA D,1,0.0
+INE528G16Y02,Yes Bank Ltd. (17/11/2026) **#,CRISIL A1+,1,0.0
+INE528G16Y10,Yes Bank Ltd. (18/11/2026) **#,CRISIL A1+,1,0.0
+INE530B14HS6,IIFL Finance Ltd. (04/09/2026) **,ICRA A1+,1,0.0
+INE530B14HT4,IIFL Finance Ltd. (07/09/2026) **,ICRA A1+,1,0.0
+INE530B14HU2,IIFL Finance Ltd. (08/09/2026) **,ICRA A1+,1,0.0
+INE535H14JR0,SMFG India Credit Company Ltd. (25/09/2026) **,ICRA A1+,1,0.0
+INE535H14JT6,SMFG India Credit Company Ltd.,CRISIL A1+,1,0.0
+INE537P07752,8.25% India Infradebt Ltd. (15/09/2026) **,ICRA AAA,1,0.0
+INE556F14MI3,Small Industries Development Bank of India,CRISIL A1+,1,0.0
+INE556F14ML7,Small Industries Development Bank of India,CRISIL A1+,1,0.0
+INE556F14MQ6,Small Industries Development Bank of India (01/12/2026) **,CRISIL A1+,1,0.0
+INE556F16BK7,Small Industries Dev Bank of India (24/09/2026),CRISIL A1+,1,0.0
+INE556F16BQ4,Small Industries Development Bank of India (06/11/2026) **#,CRISIL A1+,1,0.0
+INE556F16BT8,Small Industries Dev Bank of India (16/12/2026),CARE A1+,1,0.0
+INE556F16CE8,Small Industries Dev Bank of India (11/06/2027),CRISIL A1+,1,0.0
+INE562A01011,,Banks,1,0.0
+INE562A16PT7,Indian Bank (06/11/2026) **#,CRISIL A1+,1,0.0
+INE562A16QG2,Indian Bank (22/01/2027),CRISIL A1+,1,0.0
+INE562A16RG0,Indian Bank (01/10/2026) **#,CRISIL A1+,1,0.0
+INE563J14DO8,Astec Lifesciences Ltd.,[ICRA]A1+,1,0.0
+INE563J14DP5,Astec Lifesciences Ltd.,[ICRA]A1+,1,0.0
+INE572E14KJ5,PNB Housing Finance Ltd. (08/09/2026) **,CRISIL A1+,1,0.0
+INE572E14KL1,PNB Housing Finance Ltd.,CRISIL A1+,1,0.0
+INE572E14KM9,PNB Housing Finance Ltd.,CRISIL A1+,1,0.0
+INE572E14KQ0,PNB Housing Finance Ltd.,CRISIL A1+,1,0.0
+INE582L14JS2,Tata Housing Development Co. Ltd. (16/09/2026) **,CARE A1+,1,0.0
+INE582L14JT0,Tata Housing Development Co. Ltd.,IND A1+,1,0.0
+INE582L14JU8,Tata Housing Development Co. Ltd. (11/11/2026) **,CARE A1+,1,0.0
+INE582L14JV6,Tata Housing Development Co. Ltd. (16/11/2026) **,CARE A1+,1,0.0
+INE582L14JX2,Tata Housing Development Co. Ltd. (30/11/2026) **,CARE A1+,1,0.0
+INE583L01014,AGS Transact Technologies Limited,Financial Technology (Fintech),1,0.0
+INE584A01023,NMDC Ltd.,Minerals & Mining,1,0.0
+INE608A16TM5,Punjab & Sind Bank (17/11/2026) **#,ICRA A1+,1,0.0
+INE608A16TN3,Punjab & Sind Bank,[ICRA]A1+,1,0.0
+INE613A01020,Rallis India Ltd.,Fertilizers & Agrochemicals,1,0.0
+INE647A01010,,Chemicals and Petrochemicals,1,0.0
+INE651J14AZ3,JM Financial Credit Solutions Ltd. (11/11/2026) **,IND A1+,1,0.0
+INE660A07RU2,Sundaram Finance Ltd. **,ICRA AAA,1,0.0
+INE660A14ZC9,Sundaram Finance Ltd. (11/09/2026) **,ICRA A1+,1,0.0
+INE660A14ZE5,Sundaram Finance Limited (17/08/2027),CRISIL A1+,1,0.0
+INE667F07IT7,7.98% Sundaram Home Finance Ltd. (04/09/2026) **,ICRA AAA,1,0.0
+INE671A01010,,Industrial Manufacturing,1,0.0
+INE674K14CV8,Aditya Birla Capital Ltd.,CRISIL A1+,1,0.0
+INE691A16ML8,UCO Bank (04/11/2026) **#,CRISIL A1+,1,0.0
+INE692A16MJ0,Union Bank of India (04/09/2026) **#,ICRA A1+,1,0.0
+INE692A16ML6,Union Bank of India,[ICRA]A1+,1,0.0
+INE692A16MN2,Union Bank of India (22/09/2026) **#,ICRA A1+,1,0.0
+INE692A16MO0,Union Bank of India (23/09/2026) **#,ICRA A1+,1,0.0
+INE692A16MR3,Union Bank of India (01/10/2026) **#,ICRA A1+,1,0.0
+INE694L14GY9,Vedanta Power Ltd. (16/09/2026) **,ICRA A1+,1,0.0
+INE700G14UG2,HDFC Securities Ltd.,CRISIL A1+,1,0.0
+INE700G14VA3,HDFC Securities Ltd.,CRISIL A1+,1,0.0
+INE700G14VD7,HDFC Securities Ltd.,CRISIL A1+,1,0.0
+INE700G14VH8,HDFC Securities Ltd.,CRISIL A1+,1,0.0
+INE725H14DK5,Tata Projects Ltd. (11/09/2026) **,CRISIL A1+,1,0.0
+INE725H14EC0,Tata Projects Ltd. (03/09/2026) **,CRISIL A1+,1,0.0
+INE725H14EE6,Tata Projects Ltd.,CRISIL A1+,1,0.0
+INE725H14EG1,Tata Projects Ltd. (09/10/2026) **,CRISIL A1+,1,0.0
+INE725H14EI7,Tata Projects Ltd.,CRISIL A1+,1,0.0
+INE725H14EJ5,Tata Projects Ltd.,CRISIL A1+,1,0.0
+INE729N14IR9,TVS Credit Services Ltd.,CRISIL A1+,1,0.0
+INE732I14CL9,Angel One Ltd. (07/09/2026) **,ICRA A1+,1,0.0
+INE732I14DS2,Angel One Ltd. (04/11/2026) **,CARE A1+,1,0.0
+INE733E14CC5,NTPC Ltd. (18/09/2026) **,ICRA A1+,1,0.0
+INE733E14CD3,NTPC Limited (23/09/2026),CRISIL A1+,1,0.0
+INE742F14RL2,Adani Ports and Special Economic Zone Ltd. (06/11/2026) **,CRISIL A1+,1,0.0
+INE752E08783,Power Grid Corporation of India Ltd.^,CRISIL - AAA,1,0.0
+INE756I07DX5,6.35% HDB Financial Services Ltd. (11/09/2026) **,CRISIL AAA,1,0.0
+INE756I14GP0,HDB Financial Services Ltd.,CRISIL A1+,1,0.0
+INE763G14I81,ICICI Securities Ltd.,CRISIL A1+,1,0.0
+INE763G14J31,ICICI Securities Limited (28/09/2026),CRISIL A1+,1,0.0
+INE763G14K04,ICICI Securities Ltd. (04/09/2026) **,ICRA A1+,1,0.0
+INE763G14K53,ICICI Securities Ltd.,CRISIL A1+,1,0.0
+INE763G14L11,ICICI Securities Ltd.,CRISIL A1+,1,0.0
+INE774D01024,Mahindra & Mahindra Financial Services Ltd.,Finance,1,0.0
+INE776I01010,MEP Infrastructure Developers Ltd.,Transport Infrastructure,1,0.0
+INE790I14HW3,HSBC Investdirect Financial Services India Ltd. (03/09/2026) **,CRISIL A1+,1,0.0
+INE790Z14059,Interise Trust,[ICRA]A1+,1,0.0
+INE807K01035,S Chand and Company Ltd.,Printing & Publication,1,0.0
+INE823G01014,,Cement and Cement Products,1,0.0
+INE824H14UM6,Julius Baer Capital (India) Pvt. Ltd. (04/09/2026) **,ICRA A1+,1,0.0
+INE824H14UP9,Julius Baer Capital (India) Pvt. Ltd. (16/09/2026) **,ICRA A1+,1,0.0
+INE824H14UV7,Julius Baer Capital (India) Pvt. Ltd.,CRISIL A1+,1,0.0
+INE831R14GM9,Aditya Birla Housing Finance Ltd.,CRISIL A1+,1,0.0
+INE835F14179,IDBI Capital Markets & Securities Ltd. (08/09/2026) **,CARE A1+,1,0.0
+INE835F14187,IDBI Capital Markets & Securities Ltd. (11/09/2026) **,CARE A1+,1,0.0
+INE835F14195,IDBI Capital Markets & Securities Ltd. (06/11/2026) **,CARE A1+,1,0.0
+INE860H07IJ5,8.30% Aditya Birla Capital Ltd. (16/09/2026) **,ICRA AAA,1,0.0
+INE879F14LN1,Infina Finance Pvt. Ltd. (11/09/2026) **,ICRA A1+,1,0.0
+INE879F14NF3,Infina Finance Pvt. Ltd. (17/09/2026) **,ICRA A1+,1,0.0
+INE891D14C44,Redington Ltd. (24/09/2026) **,ICRA A1+,1,0.0
+INE891D14C51,Redington Ltd. (23/09/2026) **,ICRA A1+,1,0.0
+INE891K14QA2,Axis Finance Ltd.,CRISIL A1+,1,0.0
+INE916D145Y5,Kotak Mahindra Prime Ltd. (07/09/2026) **,ICRA A1+,1,0.0
+INE916DA7SL3,8.09% Kotak Mahindra Prime Ltd. (09/11/2026) **,CRISIL AAA,1,0.0
+INE925R01014,CMS Info System Limited,Commercial Services & Supplies,1,0.0
+INE929O14FH0,Reliance Retail Ventures Ltd.,CRISIL A1+,1,0.0
+INE949L16DZ6,AU Small Finance Bank Ltd. (06/11/2026) **#,CRISIL A1+,1,0.0
+INE949L16EB5,AU Small Finance Bank Ltd. (25/11/2026) **#,CRISIL A1+,1,0.0
+INE957N14KN1,Hero FinCorp Ltd.,CRISIL A1+,1,0.0
+INE957N14KO9,Hero FinCorp Ltd.,CRISIL A1+,1,0.0
+INE976I14QM0,TATA Capital Ltd.,CRISIL A1+,1,0.0
+INE976I14RP1,TATA Capital Ltd.,CRISIL A1+,1,0.0
+INE982J01020,One 97 Communications Ltd.,Financial Technology (Fintech),1,0.0

@@ -1,0 +1,19 @@
+fund_name,stock_count_coverage_pct_unmapped,portfolio_weight_coverage_pct_unmapped,stock_count_unmapped,portfolio_weight_pct_unmapped,not_in_mapping_stock_count,not_in_mapping_weight_pct,review_decision
+HDFC Retirement Fund - Equity Plan,2.816901408,0.690387679,2,0.65,1,0.94,LOW PRIORITY: low unmapped stock-count coverage
+ICICI Prudential Large Cap Fund,3.448275862,0.520030635,3,0.498035795,3,0.76287591,LOW PRIORITY: low unmapped stock-count coverage
+Kotak Large & Mid Cap Fund,1.818181818,0.023315458,1,0.02,13,12.14,LOW PRIORITY: low unmapped stock-count coverage
+Nippon India Small Cap Fund,0.393700787,0.010291242,1,0.01,0,0,LOW PRIORITY: low unmapped stock-count coverage
+Nippon India Large Cap Fund,0,0,0,0,0,0,LOW PRIORITY: low unmapped stock-count coverage
+Nippon India Retirement Fund- Wealth Creation Scheme,1.408450704,0,1,0,0,0,LOW PRIORITY: low unmapped stock-count coverage
+SBI Nifty 50 ETF,0,0,0,0,0,0,LOW PRIORITY: low unmapped stock-count coverage
+UTI Nifty 50 Index Fund,0,0,0,0,1,0.02,LOW PRIORITY: low unmapped stock-count coverage
+Aditya Birla Sun Life Liquid Fund,100,100,197,83.13349656,17,16.09682041,NOT STOCK COVERAGE: debt/liquid fund
+HDFC Corporate Bond Fund,100,100,182,79.63,56,16.15,NOT STOCK COVERAGE: debt/liquid fund
+ICICI Prudential Corporate Bond Fund,100,100,152,77.32230186,35,19.74001339,NOT STOCK COVERAGE: debt/liquid fund
+HDFC Liquid Fund,100,100,138,81.88,13,16.88,NOT STOCK COVERAGE: debt/liquid fund
+SBI LIQUID FUND,100,100,142,79.13,13,16.89,NOT STOCK COVERAGE: debt/liquid fund
+HDFC Balanced Advantage Fund,41.4893617,19.99563176,117,18.31,42,7.08,REVIEW: material unmapped portfolio weight
+ICICI Prudential Balanced Advantage Fund,38.41463415,17.04876148,63,14.45066298,47,7.717510912,REVIEW: material unmapped portfolio weight
+Parag Parikh Flexi Cap Fund,44.33962264,13.72919372,47,11.63,4,0.83,REVIEW: material unmapped portfolio weight
+HDFC Flexi Cap Fund,2.5,2.257033907,2,2.19,3,0.45,REVIEW: material unmapped portfolio weight
+SBI CONTRA FUND,1.19047619,1.10604333,1,0.97,5,2.74,REVIEW: material unmapped portfolio weight

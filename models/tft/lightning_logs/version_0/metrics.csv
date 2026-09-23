@@ -1,0 +1,3 @@
+epoch,lr-Adam,step,val_MAE,val_MAPE,val_RMSE,val_SMAPE,val_loss
+,0.0003,0,,,,,
+0,,345,277787.0,515285.90625,110.5031509399414,277779.125,277782.875
